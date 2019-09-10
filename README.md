@@ -43,7 +43,7 @@
 ## Sequence-Aware Recommendation Systems
 
 ### Session-based Recommendation Systems
-* Session-based Recommendations with Recurrent Neural Networks [ICLR 2016][[pdf]] (https://arxiv.org/pdf/1511.06939.pdf)
+* Session-based Recommendations with Recurrent Neural Networks [ICLR 2016] [[pdf]](https://arxiv.org/pdf/1511.06939.pdf)
   - code : https://github.com/hidasib/GRU4Rec
 * Neural Attentive Session-based Recommendation [CIKM 2017] [[pdf]](https://arxiv.org/pdf/1711.04725.pdf)
   - code : https://github.com/lijingsdu/sessionRec_NARM
@@ -55,7 +55,7 @@
   - code : https://github.com/PengjieRen/RepeatNet
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019][[__pdf__]](https://arxiv.org/pdf/1811.00855.pdf)
   - code : https://github.com/CRIPAC-DIG/SR-GNN
-* Streaming Session-based Recommendation [KDD 2019]
+* Streaming Session-based Recommendation [KDD 2019] [[__PDF__]] (http://delivery.acm.org/10.1145/3340000/3330839/p1569-guo.pdf?ip=159.226.43.46&id=3330839&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101881_a5ecfb5dd698417af3d9c29d32e00c86)
 
 ### Graph based approach
 * Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018]
