@@ -9,7 +9,7 @@
 
 ## Recommendation Systems with Text Information
   ### review-based approach
-  * Convolutional Matrix Factorization for Document Context-Aware Recommendation [RecSys 2016][[__PDF__]] (http://delivery.acm.org/10.1145/2960000/2959165/p233-kim.pdf?ip=159.226.43.46&id=2959165&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101423_225c8120374449cc9c20766fe8a2911c)
+  * Convolutional Matrix Factorization for Document Context-Aware Recommendation [RecSys 2016] [[__PDF__]](http://delivery.acm.org/10.1145/2960000/2959165/p233-kim.pdf?ip=159.226.43.46&id=2959165&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101423_225c8120374449cc9c20766fe8a2911c) 
     - code : https://github.com/cartopy/ConvMF
   * Joint Deep Modeling of Users and Items Using Reviews for Recommendation [WSDM 2017][[__PDF__]](https://arxiv.org/pdf/1701.04783.pdf)
     - code : https://github.com/chenchongthu/DeepCoNN
