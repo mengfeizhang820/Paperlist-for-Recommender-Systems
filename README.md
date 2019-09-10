@@ -61,7 +61,7 @@
   - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  
 
 ### Last-N based approach 
-* Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018]
+* Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018][[__PDF__]](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)
   - code : https://github.com/graytowne/caser_pytorch [Pytorch]
 * Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF__]](https://arxiv.org/pdf/1906.09217.pdf)
   - code : https://github.com/graytowne/caser_pytorch
