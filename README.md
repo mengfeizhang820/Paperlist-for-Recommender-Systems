@@ -23,9 +23,8 @@
   * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI 2019][[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)
   * Neural Graph Collaborative Filtering [SIGIR 2019] [[__PDF__]](https://arxiv.org/pdf/1905.08108v1.pdf)[[__code__]](https://paperswithcode.com/paper/neural-graph-collaborative-filtering)
   * Transnets: Learning to transform for recommendation [RecSys 2017][[__PDF__]](https://arxiv.org/pdf/1704.02298)[[__code__]](https://github.com/rosecatherinek/TransNets)
-  * Graph Convolutional Matrix Completion [[__Paper and code__]](https://paperswithcode.com/paper/graph-convolutional-matrix-completion)
-  
-    
+
+     
 ## Explainable Recommender Systems
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1806.03568.pdf)
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018][[__PDF__]](http://staff.ustc.edu.cn/~hexn/papers/www18-tem.pdf)
