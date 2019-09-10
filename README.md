@@ -63,7 +63,6 @@
 ### Last-N based approach 
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018]
   - code : https://github.com/graytowne/caser_pytorch [Pytorch]
-  - code : https://github.com/graytowne/caser [Matlab]
 * Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF]](https://arxiv.org/pdf/1906.09217.pdf)
   - code : https://github.com/graytowne/caser_pytorch
 * Self-Attentive Sequential Recommendation [ICDM 2018] [[__PDF__]](https://arxiv.org/pdf/1808.09781)
@@ -82,9 +81,9 @@
   - code : https://bitbucket.org/cdal/stackedcontextawarernn
   
 ### others
-+ * Hierarchical Neural Variational Model for Personalized Sequential Recommendation [WWW 2019]
-+* Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics [KDD 2019]
-+* Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit [KDD 2019]
+* Hierarchical Neural Variational Model for Personalized Sequential Recommendation [WWW 2019]
+* Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics [KDD 2019]
+* Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit [KDD 2019]
 * Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019]
   - code : https://github.com/RUCDM/TMRN
 
@@ -94,7 +93,7 @@
 * RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems [CIKM 2018] [[__PDF__]]
 https://arxiv.org/abs/1803.03467
   - code : https://github.com/hwwang55/RippleNet
-* Knowledge Graph Convolutional Networks for Recommender Systems [[__PDF__]] (https://arxiv.org/pdf/1904.12575.pdf)
+* Knowledge Graph Convolutional Networks for Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.12575.pdf)
   - code : https://github.com/hwwang55/KGCN
 * Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks [SIGIR 2018] [[__PDF__]](http://delivery.acm.org/10.1145/3220000/3210017/p505-huang.pdf?ip=159.226.43.46&id=3210017&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568100770_6bdfb19ed107162bbc2ad22e7ebf1463)
   - dataset and code : https://github.com/RUCDM/KB4Rec
