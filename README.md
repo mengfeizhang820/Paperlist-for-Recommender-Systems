@@ -63,7 +63,7 @@
 ### Last-N based approach 
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018]
   - code : https://github.com/graytowne/caser_pytorch [Pytorch]
-* Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF]](https://arxiv.org/pdf/1906.09217.pdf)
+* Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF__]](https://arxiv.org/pdf/1906.09217.pdf)
   - code : https://github.com/graytowne/caser_pytorch
 * Self-Attentive Sequential Recommendation [ICDM 2018] [[__PDF__]](https://arxiv.org/pdf/1808.09781)
   - code : https://github.com/kang205/SASRec
@@ -90,8 +90,7 @@
 ## Knowledge Graph-based Recommendations
 * DKN: Deep Knowledge-Aware Network for News Recommendation [WWW 2018] [[__PDF__]](https://arxiv.org/pdf/1801.08284.pdf)
   - code : https://github.com/hwwang55/DKN
-* RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems [CIKM 2018] [[__PDF__]]
-https://arxiv.org/abs/1803.03467
+* RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems [CIKM 2018] [[__PDF__]](https://arxiv.org/abs/1803.03467)
   - code : https://github.com/hwwang55/RippleNet
 * Knowledge Graph Convolutional Networks for Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.12575.pdf)
   - code : https://github.com/hwwang55/KGCN
@@ -102,13 +101,13 @@ https://arxiv.org/abs/1803.03467
 * DRN: A Deep Reinforcement Learning Framework for News Recommendation [WWW 2018] [[__PDF__]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
 ## Industry
 ### CTR prediction
-* Representation Learning-Assisted Click-Through Rate Prediction [IJCAI 2019] [[__PDF__]] (https://arxiv.org/abs/1906.04365)[Alibaba]
+* Representation Learning-Assisted Click-Through Rate Prediction [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1906.04365)[Alibaba]
 
 * Deep Session Interest Network for Click-Through Rate Prediction [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1905.06482) [Alibaba]
 
 * Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction] [KDD2019] [[__PDF__]](https://arxiv.org/abs/1906.03776)  [Alibaba]
 
-* Graph Intention Network for Click-through Rate Prediction in Sponsored Search [SIGIR2019] [[__PDF__]] (https://dl.acm.org/citation.cfm?id=3331283)[Alibaba]
+* Graph Intention Network for Click-through Rate Prediction in Sponsored Search [SIGIR2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331283)[Alibaba]
 
 * Order-aware Embedding Neural Network for CTR Prediction][SIGIR 2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331332) [Huawei]
 
@@ -119,7 +118,7 @@ https://arxiv.org/abs/1803.03467
 
 ### Embedding
 * Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba [KDD 2018][Alibaba][[__PDF__]](https://arxiv.org/pdf/1803.02349.pdf)
-* Real-time Personalization using Embeddings for Search Ranking at Airbnb [KDD 2018]  [[__PDF__]](https://astro.temple.edu/~tua95067/kdd2018.pdf)
+* Real-time Personalization using Embeddings for Search Ranking at Airbnb [KDD 2018] [[__PDF__]](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 * Learning and Transferring IDs Representation in E-commerce [Alibaba] [KDD 2018] [[__PDF__]] (https://arxiv.org/pdf/1712.08289.pdf)
 * Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017]][__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
 * Graph Convolutional Neural Networks for Web-Scale Recommender Systems [Pinterest][KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1806.01973)
@@ -129,9 +128,8 @@ https://arxiv.org/abs/1803.03467
 * Deep Neural Networks for YouTube Recommendations [Youtube] [RecSys 2016] [[__PDF__]] (https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
 * Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [Alibaba] [[__PDF__]] (https://arxiv.org/pdf/1904.08030)
 * Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018]
-* Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018]
-* BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer [CIKM 2019]
-* Deep Semantic Matching for Amazon Product Search [Amazon] [WSDM 2019]
+* Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
+* Deep Semantic Matching for Amazon Product Search [WSDM 2019][Amazon] 
 * Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [KDD2018] [Alibaba] [[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)
 
 
