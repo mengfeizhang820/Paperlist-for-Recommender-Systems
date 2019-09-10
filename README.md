@@ -1,6 +1,6 @@
 # Recommendation_Systems_Paperlist 
 
-## Survey paper
+## Survey Papers
 * Deep Learning based Recommender System: A Survey and New Perspectives [2017][[__PDF__]](https://arxiv.org/pdf/1707.07435.pdf)
 * 基于深度学习的推荐系统研究综述 [2018] [[__PDF__](http://cjc.ict.ac.cn/online/bfpub/hlww-2018124152810.pdf)]
 * Explainable Recommendation: A Survey and New Perspectives [2018] [[__PDF__]](https://arxiv.org/pdf/1804.11192.pdf)
