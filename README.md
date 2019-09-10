@@ -53,7 +53,7 @@
   - code : https://github.com/PengjieRen/RepeatNet
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019][[__PDF__]](https://arxiv.org/pdf/1811.00855.pdf)
   - code : https://github.com/CRIPAC-DIG/SR-GNN
-* Streaming Session-based Recommendation [KDD 2019] [[__PDF__]] (http://delivery.acm.org/10.1145/3340000/3330839/p1569-guo.pdf?ip=159.226.43.46&id=3330839&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101881_a5ecfb5dd698417af3d9c29d32e00c86)
+* Streaming Session-based Recommendation [KDD 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3340000/3330839/p1569-guo.pdf?ip=159.226.43.46&id=3330839&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101881_a5ecfb5dd698417af3d9c29d32e00c86)
 
 ### Graph based approach
 * Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1806.01973)
@@ -70,7 +70,7 @@
   - code : https://github.com/kang205/SASRec
 
 ### Long and short-term sequential recommendation systems
-* Next Item Recommendation with Self-Attention [[__PDF__]] (https://arxiv.org/pdf/1808.06414)
+* Next Item Recommendation with Self-Attention [ACM 2018][[__PDF__]](https://arxiv.org/pdf/1808.06414)
   - code : https://github.com/cheungdaven/DeepRec/blob/master/models/seq_rec/AttRec.py
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1804.10862)
   - code : https://github.com/tebesu/CollaborativeMemoryNetwork
