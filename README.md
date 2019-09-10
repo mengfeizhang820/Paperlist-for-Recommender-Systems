@@ -119,14 +119,14 @@
 ### Embedding
 * Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba [KDD 2018][Alibaba][[__PDF__]](https://arxiv.org/pdf/1803.02349.pdf)
 * Real-time Personalization using Embeddings for Search Ranking at Airbnb [KDD 2018] [[__PDF__]](https://astro.temple.edu/~tua95067/kdd2018.pdf)
-* Learning and Transferring IDs Representation in E-commerce [Alibaba] [KDD 2018] [[__PDF__]] (https://arxiv.org/pdf/1712.08289.pdf)
+* Learning and Transferring IDs Representation in E-commerce [Alibaba] [KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1712.08289.pdf)
 * Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017]][__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
 * Graph Convolutional Neural Networks for Web-Scale Recommender Systems [Pinterest][KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1806.01973)
 
 ### Others
 * ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation [AAAI 2018] [Alibaba] [[__PDF__]](https://arxiv.org/pdf/1711.06632.pdf)
-* Deep Neural Networks for YouTube Recommendations [Youtube] [RecSys 2016] [[__PDF__]] (https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
-* Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [Alibaba] [[__PDF__]] (https://arxiv.org/pdf/1904.08030)
+* Deep Neural Networks for YouTube Recommendations [Youtube] [RecSys 2016] [[__PDF__]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
+* Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [Alibaba] [[__PDF__]](https://arxiv.org/pdf/1904.08030)
 * Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018]
 * Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
 * Deep Semantic Matching for Amazon Product Search [WSDM 2019][Amazon] 
