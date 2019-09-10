@@ -120,7 +120,7 @@
 
 
 ### Embedding
-* Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017]][__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
+* Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017][[__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
 * Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba [KDD 2018][Alibaba][[__PDF__]](https://arxiv.org/pdf/1803.02349.pdf)
 * Real-time Personalization using Embeddings for Search Ranking at Airbnb [KDD 2018] [[__PDF__]](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 * Learning and Transferring IDs Representation in E-commerce [Alibaba] [KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1712.08289.pdf)
