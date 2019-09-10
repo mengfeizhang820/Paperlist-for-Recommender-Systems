@@ -72,7 +72,7 @@
 * DKN: Deep Knowledge-Aware Network for News Recommendation [WWW 2018] [[__PDF__]](https://arxiv.org/pdf/1801.08284.pdf)[[__code__]](https://github.com/hwwang55/DKN)
 * RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems [CIKM 2018] [[__PDF__]](https://arxiv.org/abs/1803.03467)[[__code__]](https://github.com/hwwang55/RippleNet)
 * Knowledge Graph Convolutional Networks for Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.12575.pdf)[[__code__]](https://github.com/hwwang55/KGCN)
-* KGAT: Knowledge Graph Attention Network for Recommendation [KDD2019] [__PDF__]](https://arxiv.org/pdf/1905.07854v2.pdf)[[__code__]](https://github.com/xiangwang1223/knowledge_graph_attention_network)
+* KGAT: Knowledge Graph Attention Network for Recommendation [KDD2019][__PDF__]](https://arxiv.org/pdf/1905.07854v2.pdf)[[__code__]](https://github.com/xiangwang1223/knowledge_graph_attention_network)
 
 ## Reinforcement Learning Approaches
 * DRN: A Deep Reinforcement Learning Framework for News Recommendation [WWW 2018] [[__PDF__]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
