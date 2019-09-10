@@ -20,7 +20,7 @@
 
 
 ## collaborative filtering approach
-  * Neural Collaborative Filtering [2017][[__PDF__]](https://arxiv.org/pdf/1708.05031.pdf)
+  * Neural Collaborative Filtering [WWW 2017][[__PDF__]](https://arxiv.org/pdf/1708.05031.pdf)
     - code :https://paperswithcode.com/paper/neural-collaborative-filtering-1#code
   * Outer Product-based Neural Collaborative Filtering [IJCAI 2018][[__PDF__]](https://arxiv.org/pdf/1808.03912v1.pdf)
     - code :https://github.com/duxy-me/ConvNCF
@@ -62,7 +62,7 @@
 
 ### Last-N based approach 
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018][[__PDF__]](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)
-  - code : https://github.com/graytowne/caser_pytorch [Pytorch]
+  - code : https://github.com/graytowne/caser_pytorch
 * Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF__]](https://arxiv.org/pdf/1906.09217.pdf)
   - code : https://github.com/graytowne/caser_pytorch
 * Self-Attentive Sequential Recommendation [ICDM 2018] [[__PDF__]](https://arxiv.org/pdf/1808.09781)
