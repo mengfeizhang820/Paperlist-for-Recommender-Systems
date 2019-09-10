@@ -1,4 +1,4 @@
-# Recommendation_Systems_Paperlist 
+# RecommenderSystems_Paperlist 
 
 ## Survey Papers
 * Deep Learning based Recommender System: A Survey and New Perspectives [2017][[__PDF__]](https://arxiv.org/pdf/1707.07435.pdf)
@@ -7,7 +7,7 @@
 * Sequence-Aware Recommender Systems [2018] [[__PDF__]](https://arxiv.org/pdf/1802.08452.pdf)
 
 
-## Recommendation Systems with Content Information
+## Recommender Systems with Content Information
   ### Review-based Approaches
   * Convolutional Matrix Factorization for Document Context-Aware Recommendation [RecSys 2016] [[__PDF__]](http://delivery.acm.org/10.1145/2960000/2959165/p233-kim.pdf?ip=159.226.43.46&id=2959165&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101423_225c8120374449cc9c20766fe8a2911c) [[__code__]]( https://github.com/cartopy/ConvMF)
 
@@ -16,7 +16,7 @@
   * Gated attentive-autoencoder for content-aware recommendation [WSDM 2019][[__PDF__]](https://arxiv.org/pdf/1812.02869)[[__code__]](https://github.com/allenjack/GATE)
 
 
-## Collaborative Filtering Approaches
+## Collaborative Filtering Recommendations
   * Neural Collaborative Filtering [WWW 2017][[__PDF__]](https://arxiv.org/pdf/1708.05031.pdf)[[__code__]](https://paperswithcode.com/paper/neural-collaborative-filtering-1#code)
   * Outer Product-based Neural Collaborative Filtering [IJCAI 2018][[__PDF__]](https://arxiv.org/pdf/1808.03912v1.pdf)[[__code__]](https://github.com/duxy-me/ConvNCF)
   * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI 2019][[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)
@@ -24,14 +24,14 @@
   * Transnets: Learning to transform for recommendation [RecSys 2017][[__PDF__]](https://arxiv.org/pdf/1704.02298)[[__code__]](https://github.com/rosecatherinek/TransNets)
   
     
-## Explainable Recommendation Systems
+## Explainable Recommender Systems
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1806.03568.pdf)
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018][[__PDF__]](http://staff.ustc.edu.cn/~hexn/papers/www18-tem.pdf)
 * Neural Attentional Rating Regression with Review-level Explanations [WWW 2018] [[__PDF__]](http://www.thuir.cn/group/~YQLiu/publications/WWW2018_CC.pdf)[[__code__]](https://github.com/chenchongthu/NARRE)
 
-## Sequence-Aware Recommendation Systems
+## Sequence-Aware Recommender Systems
 
-### Session-based Recommendation Systems
+### Session-based Recommender Systems
 * Session-based Recommendations with Recurrent Neural Networks [ICLR 2016] [[__PDF__]](https://arxiv.org/pdf/1511.06939.pdf)[[__code__]](https://github.com/hidasib/GRU4Rec)
 * Neural Attentive Session-based Recommendation [CIKM 2017] [[__PDF__]](https://arxiv.org/pdf/1711.04725.pdf)[[__code__]](https://github.com/lijingsdu/sessionRec_NARM)
 * When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [RecSys 2017][[__PDF__]](http://ls13-www.cs.tu-dortmund.de/homepage/publications/jannach/Conference_RecSys_2017.pdf)
