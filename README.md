@@ -28,7 +28,7 @@
     [[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)
   * Neural Graph Collaborative Filtering [SIGIR 2019] [[__pdf__]](https://arxiv.org/pdf/1905.08108v1.pdf)
     - code : https://paperswithcode.com/paper/neural-graph-collaborative-filtering
-  * Transnets: Learning to transform for recommendation [RecSys 2017][[__PDF__]] (https://arxiv.org/pdf/1704.02298)
+  * Transnets: Learning to transform for recommendation [RecSys 2017][[__PDF__]](https://arxiv.org/pdf/1704.02298)
     - code : https://github.com/rosecatherinek/TransNets
 
   
