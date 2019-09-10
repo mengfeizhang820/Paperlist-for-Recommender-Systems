@@ -3,8 +3,8 @@
 ## Survey paper
 * Deep Learning based Recommender System: A Survey and New Perspectives [2017][[__pdf__]](https://arxiv.org/pdf/1707.07435.pdf)
 * 基于深度学习的推荐系统研究综述 [2018] [[__pdf__](http://cjc.ict.ac.cn/online/bfpub/hlww-2018124152810.pdf)]
-* Explainable Recommendation: A Survey and New Perspectives [2018] [[__pdf__](https://arxiv.org/pdf/1804.11192.pdf)
-* Sequence-Aware Recommender Systems [2018] [[__pdf__](https://arxiv.org/pdf/1802.08452.pdf)
+* Explainable Recommendation: A Survey and New Perspectives [2018] [[__pdf__]](https://arxiv.org/pdf/1804.11192.pdf)
+* Sequence-Aware Recommender Systems [2018] [[__pdf__]](https://arxiv.org/pdf/1802.08452.pdf)
 
 
 ## Recommendation Systems with Text Information
@@ -13,7 +13,7 @@
     - code : https://github.com/cartopy/ConvMF
   * Joint Deep Modeling of Users and Items Using Reviews for Recommendation [WSDM 2017]
     - code : https://github.com/chenchongthu/DeepCoNN
-  * Multi-Pointer Co-Attention Networks for Recommendation [KDD 2018][[__pdf__](https://arxiv.org/pdf/1801.09251)
+  * Multi-Pointer Co-Attention Networks for Recommendation [KDD 2018][[__pdf__]](https://arxiv.org/pdf/1801.09251)
     - code : https://github.com/vanzytay/KDD2018_MPCN
   * Gated attentive-autoencoder for content-aware recommendation [WSDM 2019][[__pdf__]](https://arxiv.org/pdf/1812.02869)
     - code : https://github.com/allenjack/GATE
