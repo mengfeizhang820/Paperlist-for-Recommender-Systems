@@ -1,4 +1,4 @@
-# Recommendation_system_paperlist 
+# Recommendation_Systems_Paperlist 
 
 ## Survey paper
 * Deep Learning based Recommender System: A Survey and New Perspectives [2017][[__PDF__]](https://arxiv.org/pdf/1707.07435.pdf)
@@ -7,8 +7,8 @@
 * Sequence-Aware Recommender Systems [2018] [[__PDF__]](https://arxiv.org/pdf/1802.08452.pdf)
 
 
-## Recommendation Systems with Text Information
-  ### review-based approach
+## Recommendation Systems with Content Information
+  ### Review-based Approaches
   * Convolutional Matrix Factorization for Document Context-Aware Recommendation [RecSys 2016] [[__PDF__]](http://delivery.acm.org/10.1145/2960000/2959165/p233-kim.pdf?ip=159.226.43.46&id=2959165&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101423_225c8120374449cc9c20766fe8a2911c) [[__code__]]( https://github.com/cartopy/ConvMF)
 
   * Joint Deep Modeling of Users and Items Using Reviews for Recommendation [WSDM 2017][[__PDF__]](https://arxiv.org/pdf/1701.04783.pdf)[[__code__]](https://github.com/chenchongthu/DeepCoNN)
@@ -16,7 +16,7 @@
   * Gated attentive-autoencoder for content-aware recommendation [WSDM 2019][[__PDF__]](https://arxiv.org/pdf/1812.02869)[[__code__]](https://github.com/allenjack/GATE)
 
 
-## collaborative filtering approach
+## Collaborative Filtering Approaches
   * Neural Collaborative Filtering [WWW 2017][[__PDF__]](https://arxiv.org/pdf/1708.05031.pdf)[[__code__]](https://paperswithcode.com/paper/neural-collaborative-filtering-1#code)
   * Outer Product-based Neural Collaborative Filtering [IJCAI 2018][[__PDF__]](https://arxiv.org/pdf/1808.03912v1.pdf)[[__code__]](https://github.com/duxy-me/ConvNCF)
   * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI 2019][[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)
@@ -42,17 +42,17 @@
  
 * Streaming Session-based Recommendation [KDD 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3340000/3330839/p1569-guo.pdf?ip=159.226.43.46&id=3330839&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101881_a5ecfb5dd698417af3d9c29d32e00c86)
 
-### Graph based approach
+### Graph-based Approaches
 * Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1806.01973)
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019][[__PDF__]](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)[[__code__]](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  )
 
-### Last-N based approach 
+### Last-N based Approaches
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018][[__PDF__]](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)[[__code__]](https://github.com/graytowne/caser_pytorch)
 * Self-Attentive Sequential Recommendation [ICDM 2018] [[__PDF__]](https://arxiv.org/pdf/1808.09781)[[__code__]](https://github.com/kang205/SASRec)
 * Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF__]](https://arxiv.org/pdf/1906.09217.pdf)[[__code__]](https://github.com/graytowne/caser_pytorch)
 
 
-### Long and short-term sequential recommendation systems
+### Long and short-term Sequential Recommendations
 * Next Item Recommendation with Self-Attention [ACM 2018][[__PDF__]](https://arxiv.org/pdf/1808.06414)[[__code__]](https://github.com/cheungdaven/DeepRec/blob/master/models/seq_rec/AttRec.py)
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1804.10862)[[__code__]](https://github.com/tebesu/CollaborativeMemoryNetwork)
 * Sequential Recommender System based on Hierarchical Attention Network [IJCAI 2018] [[__PDF__]](https://www.ijcai.org/proceedings/2018/0546.pdf)[[__code__]](https://github.com/uctoronto/SHAN)
@@ -61,7 +61,7 @@
 ### Context-Aware Sequential Recommendations
 * Context-Aware Sequential Recommendations withStacked Recurrent Neural Networks [WWW 2019][[__PDF__]](http://delivery.acm.org/10.1145/3320000/3313567/p3172-rakkappan.pdf?ip=159.226.43.46&id=3313567&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568094616_ce11de1b93788a1072a48c6212d24287)[[__code__]](https://bitbucket.org/cdal/stackedcontextawarernn)
   
-### others
+### Others
 * Hierarchical Neural Variational Model for Personalized Sequential Recommendation [WWW 2019]
 * Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics [KDD 2019]
 * Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit [KDD 2019]
@@ -74,10 +74,10 @@
 * RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems [CIKM 2018] [[__PDF__]](https://arxiv.org/abs/1803.03467)[[__code__]](https://github.com/hwwang55/RippleNet)
 * Knowledge Graph Convolutional Networks for Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.12575.pdf)[[__code__]](https://github.com/hwwang55/KGCN)
 
-## Reinforcement learning approachs
+## Reinforcement Learning Approaches
 * DRN: A Deep Reinforcement Learning Framework for News Recommendation [WWW 2018] [[__PDF__]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
 ## Industry
-### CTR prediction
+### CTR Prediction
 
 * DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [[IJCAI 2017] [[__PDF__]](https://arxiv.org/abs/1703.04247), [IJCAI 2017] [Huawei]
 * xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems] [KDD2018] [[__PDF__]](https://arxiv.org/pdf/1803.05170.pdf) [Microsoft]
