@@ -49,7 +49,7 @@
   - code : https://github.com/lijingsdu/sessionRec_NARM
 * When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [RecSys 2017]
 * Recurrent Neural Networks with Top-k Gains for Session-based Recommendations [CIKM 2018]
-* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018]
+* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018] [[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3219950&type=pdf)
   - code : https://github.com/uestcnlp/STAMP
 * RepeatNet: A Repeat Aware Neural Recommendation Machine for Session-based Recommendation [AAAI 2019][[__pdf__]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ren-repeatnet-2019.pdf)
   - code : https://github.com/PengjieRen/RepeatNet
