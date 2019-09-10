@@ -1,10 +1,10 @@
 # Recommendation_system_paperlist 
 
 ## Survey paper
-* Deep Learning based Recommender System: A Survey and New Perspectives [2017][[__pdf__]](https://arxiv.org/pdf/1707.07435.pdf)
-* 基于深度学习的推荐系统研究综述 [2018] [[__pdf__](http://cjc.ict.ac.cn/online/bfpub/hlww-2018124152810.pdf)]
-* Explainable Recommendation: A Survey and New Perspectives [2018] [[__pdf__]](https://arxiv.org/pdf/1804.11192.pdf)
-* Sequence-Aware Recommender Systems [2018] [[__pdf__]](https://arxiv.org/pdf/1802.08452.pdf)
+* Deep Learning based Recommender System: A Survey and New Perspectives [2017][[__PDF__]](https://arxiv.org/pdf/1707.07435.pdf)
+* 基于深度学习的推荐系统研究综述 [2018] [[__PDF__](http://cjc.ict.ac.cn/online/bfpub/hlww-2018124152810.pdf)]
+* Explainable Recommendation: A Survey and New Perspectives [2018] [[__PDF__]](https://arxiv.org/pdf/1804.11192.pdf)
+* Sequence-Aware Recommender Systems [2018] [[__PDF__]](https://arxiv.org/pdf/1802.08452.pdf)
 
 
 ## Recommendation Systems with Text Information
@@ -13,20 +13,20 @@
     - code : https://github.com/cartopy/ConvMF
   * Joint Deep Modeling of Users and Items Using Reviews for Recommendation [WSDM 2017][[__PDF__]](https://arxiv.org/pdf/1701.04783.pdf)
     - code : https://github.com/chenchongthu/DeepCoNN
-  * Multi-Pointer Co-Attention Networks for Recommendation [KDD 2018][[__pdf__]](https://arxiv.org/pdf/1801.09251)
+  * Multi-Pointer Co-Attention Networks for Recommendation [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1801.09251)
     - code : https://github.com/vanzytay/KDD2018_MPCN
-  * Gated attentive-autoencoder for content-aware recommendation [WSDM 2019][[__pdf__]](https://arxiv.org/pdf/1812.02869)
+  * Gated attentive-autoencoder for content-aware recommendation [WSDM 2019][[__PDF__]](https://arxiv.org/pdf/1812.02869)
     - code : https://github.com/allenjack/GATE
 
 
 ## collaborative filtering approach
-  * Neural Collaborative Filtering [2017][[__pdf__]](https://arxiv.org/pdf/1708.05031.pdf)
+  * Neural Collaborative Filtering [2017][[__PDF__]](https://arxiv.org/pdf/1708.05031.pdf)
     - code :https://paperswithcode.com/paper/neural-collaborative-filtering-1#code
-  * Outer Product-based Neural Collaborative Filtering [IJCAI 2018][[__pdf__]](https://arxiv.org/pdf/1808.03912v1.pdf)
+  * Outer Product-based Neural Collaborative Filtering [IJCAI 2018][[__PDF__]](https://arxiv.org/pdf/1808.03912v1.pdf)
     - code :https://github.com/duxy-me/ConvNCF
   * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI 2019]
-    [[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)
-  * Neural Graph Collaborative Filtering [SIGIR 2019] [[__pdf__]](https://arxiv.org/pdf/1905.08108v1.pdf)
+     [[__PDF__]] (https://arxiv.org/pdf/1901.04704v1.pdf)
+  * Neural Graph Collaborative Filtering [SIGIR 2019] [[__PDF__]](https://arxiv.org/pdf/1905.08108v1.pdf)
     - code : https://paperswithcode.com/paper/neural-graph-collaborative-filtering
   * Transnets: Learning to transform for recommendation [RecSys 2017][[__PDF__]](https://arxiv.org/pdf/1704.02298)
     - code : https://github.com/rosecatherinek/TransNets
@@ -43,23 +43,22 @@
 ## Sequence-Aware Recommendation Systems
 
 ### Session-based Recommendation Systems
-* Session-based Recommendations with Recurrent Neural Networks [ICLR 2016] [[pdf]](https://arxiv.org/pdf/1511.06939.pdf)
+* Session-based Recommendations with Recurrent Neural Networks [ICLR 2016] [[__PDF__]](https://arxiv.org/pdf/1511.06939.pdf)
   - code : https://github.com/hidasib/GRU4Rec
-* Neural Attentive Session-based Recommendation [CIKM 2017] [[pdf]](https://arxiv.org/pdf/1711.04725.pdf)
+* Neural Attentive Session-based Recommendation [CIKM 2017] [[__PDF__]](https://arxiv.org/pdf/1711.04725.pdf)
   - code : https://github.com/lijingsdu/sessionRec_NARM
-* When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [RecSys 2017]
-* Recurrent Neural Networks with Top-k Gains for Session-based Recommendations [CIKM 2018]
+* When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [RecSys 2017][[__PDF__]](http://ls13-www.cs.tu-dortmund.de/homepage/publications/jannach/Conference_RecSys_2017.pdf)
 * STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018] [[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3219950&type=pdf)
   - code : https://github.com/uestcnlp/STAMP
-* RepeatNet: A Repeat Aware Neural Recommendation Machine for Session-based Recommendation [AAAI 2019][[__pdf__]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ren-repeatnet-2019.pdf)
+* RepeatNet: A Repeat Aware Neural Recommendation Machine for Session-based Recommendation [AAAI 2019][[__PDF__]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ren-repeatnet-2019.pdf)
   - code : https://github.com/PengjieRen/RepeatNet
-* Session-based Recommendation with Graph Neural Networks [AAAI 2019][[__pdf__]](https://arxiv.org/pdf/1811.00855.pdf)
+* Session-based Recommendation with Graph Neural Networks [AAAI 2019][[__PDF__]](https://arxiv.org/pdf/1811.00855.pdf)
   - code : https://github.com/CRIPAC-DIG/SR-GNN
 * Streaming Session-based Recommendation [KDD 2019] [[__PDF__]] (http://delivery.acm.org/10.1145/3340000/3330839/p1569-guo.pdf?ip=159.226.43.46&id=3330839&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101881_a5ecfb5dd698417af3d9c29d32e00c86)
 
 ### Graph based approach
-* Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018]
-* Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019]
+* Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1806.01973)
+* Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019][[__PDF__]](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)
   - code : https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  
 
 ### Last-N based approach 
