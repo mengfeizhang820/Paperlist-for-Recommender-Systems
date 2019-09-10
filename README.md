@@ -17,7 +17,7 @@
     - code : https://github.com/vanzytay/KDD2018_MPCN
   * Gated attentive-autoencoder for content-aware recommendation [WSDM 2019][[__pdf__]](https://arxiv.org/pdf/1812.02869)
     - code : https://github.com/allenjack/GATE
-  +* DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation [KDD 2019]   
+
 
 ## collaborative filtering approach
   * Neural Collaborative Filtering [2017][[__pdf__]](https://arxiv.org/pdf/1708.05031.pdf)
@@ -26,7 +26,7 @@
     - code :https://github.com/duxy-me/ConvNCF
   * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI 2019]
     [[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)
-  * Neural Graph Collaborative Filtering [SIGIR 2019][[__pdf__]] (https://arxiv.org/pdf/1905.08108v1.pdf)
+  * Neural Graph Collaborative Filtering [SIGIR 2019] [[__pdf__]](https://arxiv.org/pdf/1905.08108v1.pdf)
     - code : https://paperswithcode.com/paper/neural-graph-collaborative-filtering
   * Transnets: Learning to transform for recommendation [RecSys 2017][[__PDF__]] (https://arxiv.org/pdf/1704.02298)
     - code : https://github.com/rosecatherinek/TransNets
