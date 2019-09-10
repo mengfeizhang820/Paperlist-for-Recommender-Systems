@@ -63,10 +63,11 @@
 ### Last-N based approach 
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018][[__PDF__]](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)
   - code : https://github.com/graytowne/caser_pytorch
-* Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF__]](https://arxiv.org/pdf/1906.09217.pdf)
-  - code : https://github.com/graytowne/caser_pytorch
 * Self-Attentive Sequential Recommendation [ICDM 2018] [[__PDF__]](https://arxiv.org/pdf/1808.09781)
   - code : https://github.com/kang205/SASRec
+* Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF__]](https://arxiv.org/pdf/1906.09217.pdf)
+  - code : https://github.com/graytowne/caser_pytorch
+
 
 ### Long and short-term sequential recommendation systems
 * Next Item Recommendation with Self-Attention [ACM 2018][[__PDF__]](https://arxiv.org/pdf/1808.06414)
@@ -77,7 +78,7 @@
   - code : https://github.com/uctoronto/SHAN
   
 ### Context-Aware Sequential Recommendations
-* Context-Aware Sequential Recommendations withStacked Recurrent Neural Networks [[__PDF__]](http://delivery.acm.org/10.1145/3320000/3313567/p3172-rakkappan.pdf?ip=159.226.43.46&id=3313567&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568094616_ce11de1b93788a1072a48c6212d24287)
+* Context-Aware Sequential Recommendations withStacked Recurrent Neural Networks [WWW 2019][[__PDF__]](http://delivery.acm.org/10.1145/3320000/3313567/p3172-rakkappan.pdf?ip=159.226.43.46&id=3313567&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568094616_ce11de1b93788a1072a48c6212d24287)
   - code : https://bitbucket.org/cdal/stackedcontextawarernn
   
 ### others
@@ -88,19 +89,22 @@
   - code : https://github.com/RUCDM/TMRN
 
 ## Knowledge Graph-based Recommendations
+* Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks [SIGIR 2018] [[__PDF__]](http://delivery.acm.org/10.1145/3220000/3210017/p505-huang.pdf?ip=159.226.43.46&id=3210017&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568100770_6bdfb19ed107162bbc2ad22e7ebf1463)
+  - dataset and code : https://github.com/RUCDM/KB4Rec
 * DKN: Deep Knowledge-Aware Network for News Recommendation [WWW 2018] [[__PDF__]](https://arxiv.org/pdf/1801.08284.pdf)
   - code : https://github.com/hwwang55/DKN
 * RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems [CIKM 2018] [[__PDF__]](https://arxiv.org/abs/1803.03467)
   - code : https://github.com/hwwang55/RippleNet
 * Knowledge Graph Convolutional Networks for Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.12575.pdf)
   - code : https://github.com/hwwang55/KGCN
-* Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks [SIGIR 2018] [[__PDF__]](http://delivery.acm.org/10.1145/3220000/3210017/p505-huang.pdf?ip=159.226.43.46&id=3210017&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568100770_6bdfb19ed107162bbc2ad22e7ebf1463)
-  - dataset and code : https://github.com/RUCDM/KB4Rec
-  
+
 ## Reinforcement learning approachs
 * DRN: A Deep Reinforcement Learning Framework for News Recommendation [WWW 2018] [[__PDF__]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
 ## Industry
 ### CTR prediction
+
+* DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [[IJCAI 2017] [[__PDF__]](https://arxiv.org/abs/1703.04247), [IJCAI 2017] [Huawei]
+* xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems] [KDD2018] [[__PDF__]](https://arxiv.org/pdf/1803.05170.pdf) [Microsoft]
 * Representation Learning-Assisted Click-Through Rate Prediction [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1906.04365)[Alibaba]
 
 * Deep Session Interest Network for Click-Through Rate Prediction [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1905.06482) [Alibaba]
@@ -113,8 +117,7 @@
 
 * Feature Generation by Convolutional Neural Network for Click-Through Rate Prediction [WWW 2019] [[__PDF__]](https://arxiv.org/abs/1904.04447) [Huawei]
 
-* xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems] [KDD2018] [[__PDF__]](https://arxiv.org/pdf/1803.05170.pdf) [Microsoft]
-* DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [[IJCAI 2017] [[__PDF__]](https://arxiv.org/abs/1703.04247), [IJCAI 2017] [Huawei]
+
 
 ### Embedding
 * Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017]][__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
@@ -124,12 +127,13 @@
 * Graph Convolutional Neural Networks for Web-Scale Recommender Systems [Pinterest][KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1806.01973)
 
 ### Others
-* ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation [AAAI 2018] [Alibaba] [[__PDF__]](https://arxiv.org/pdf/1711.06632.pdf)
 * Deep Neural Networks for YouTube Recommendations [Youtube] [RecSys 2016] [[__PDF__]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
-* Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [Alibaba] [2019][[__PDF__]](https://arxiv.org/pdf/1904.08030)
+* ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation [AAAI 2018] [Alibaba] [[__PDF__]](https://arxiv.org/pdf/1711.06632.pdf)
 * Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018][[__PDF__]](http://delivery.acm.org/10.1145/3160000/3159727/p46-beutel.pdf?ip=159.226.43.46&id=3159727&acc=OA&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1568103183_98476c18cb349d52e835c76d85b83253)
 * Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
-* Deep Semantic Matching for Amazon Product Search [WSDM 2019][Amazon][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)
 * Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [KDD2018] [Alibaba] [[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)
+* Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [Alibaba] [2019][[__PDF__]](https://arxiv.org/pdf/1904.08030)
+* Deep Semantic Matching for Amazon Product Search [WSDM 2019][Amazon][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)
+
 
 
