@@ -109,7 +109,7 @@
 
 * Deep Session Interest Network for Click-Through Rate Prediction [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1905.06482) [Alibaba]
 
-* Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction] [KDD2019] [[__PDF__]](https://arxiv.org/abs/1906.03776)  [Alibaba] [__code__]](https://github.com/oywtece/dstn)
+* Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction] [KDD2019] [[__PDF__]](https://arxiv.org/abs/1906.03776)  [Alibaba][[__code__]](https://github.com/oywtece/dstn)
 
 * Graph Intention Network for Click-through Rate Prediction in Sponsored Search [SIGIR2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331283)[Alibaba]
 
