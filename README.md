@@ -35,8 +35,7 @@
 * Session-based Recommendations with Recurrent Neural Networks [ICLR 2016] [[__PDF__]](https://arxiv.org/pdf/1511.06939.pdf)[[__code__]](https://github.com/hidasib/GRU4Rec)
 * Neural Attentive Session-based Recommendation [CIKM 2017] [[__PDF__]](https://arxiv.org/pdf/1711.04725.pdf)[[__code__]](https://github.com/lijingsdu/sessionRec_NARM)
 * When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [RecSys 2017][[__PDF__]](http://ls13-www.cs.tu-dortmund.de/homepage/publications/jannach/Conference_RecSys_2017.pdf)
-* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018] [[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3219950&type=pdf)[[__code
-__]](https://github.com/uestcnlp/STAMP)
+* STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation [KDD 2018] [[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3219950&type=pdf)[[__code__]](https://github.com/uestcnlp/STAMP)
 
 * RepeatNet: A Repeat Aware Neural Recommendation Machine for Session-based Recommendation [AAAI 2019][[__PDF__]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ren-repeatnet-2019.pdf)[[__code__]](https://github.com/PengjieRen/RepeatNet)
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019][[__PDF__]](https://arxiv.org/pdf/1811.00855.pdf)[[__code__]](https://github.com/CRIPAC-DIG/SR-GNN)
@@ -86,7 +85,7 @@ __]](https://github.com/uestcnlp/STAMP)
 
 * Deep Session Interest Network for Click-Through Rate Prediction [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1905.06482) [Alibaba]
 
-* Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction] [KDD2019] [[__PDF__]](https://arxiv.org/abs/1906.03776)  [Alibaba][[__code__]](https://github.com/oywtece/dstn)
+* Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction] [KDD2019][Alibaba] [[__PDF__]](https://arxiv.org/abs/1906.03776)  [[__code__]](https://github.com/oywtece/dstn)
 
 * Graph Intention Network for Click-through Rate Prediction in Sponsored Search [SIGIR2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331283)[Alibaba]
 
