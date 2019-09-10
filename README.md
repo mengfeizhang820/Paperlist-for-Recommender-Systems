@@ -127,9 +127,9 @@
 * ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation [AAAI 2018] [Alibaba] [[__PDF__]](https://arxiv.org/pdf/1711.06632.pdf)
 * Deep Neural Networks for YouTube Recommendations [Youtube] [RecSys 2016] [[__PDF__]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
 * Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [Alibaba] [[__PDF__]](https://arxiv.org/pdf/1904.08030)
-* Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018]
+* Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018][[__PDF__]](http://delivery.acm.org/10.1145/3160000/3159727/p46-beutel.pdf?ip=159.226.43.46&id=3159727&acc=OA&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1568103183_98476c18cb349d52e835c76d85b83253)
 * Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
-* Deep Semantic Matching for Amazon Product Search [WSDM 2019][Amazon] 
+* Deep Semantic Matching for Amazon Product Search [WSDM 2019][Amazon][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)
 * Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [KDD2018] [Alibaba] [[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)
 
 
