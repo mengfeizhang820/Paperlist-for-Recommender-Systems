@@ -1,4 +1,4 @@
-# Recommendation_systems_paperlist 
+# Recommendation_system_paperlist 
 
 ## Survey paper
 * Deep Learning based Recommender System: A Survey and New Perspectives [2017][[__pdf__]](https://arxiv.org/pdf/1707.07435.pdf)
