@@ -24,8 +24,7 @@
     - code :https://paperswithcode.com/paper/neural-collaborative-filtering-1#code
   * Outer Product-based Neural Collaborative Filtering [IJCAI 2018][[__PDF__]](https://arxiv.org/pdf/1808.03912v1.pdf)
     - code :https://github.com/duxy-me/ConvNCF
-  * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI 2019]
-     [[__PDF__]] (https://arxiv.org/pdf/1901.04704v1.pdf)
+  * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI 2019][[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)
   * Neural Graph Collaborative Filtering [SIGIR 2019] [[__PDF__]](https://arxiv.org/pdf/1905.08108v1.pdf)
     - code : https://paperswithcode.com/paper/neural-graph-collaborative-filtering
   * Transnets: Learning to transform for recommendation [RecSys 2017][[__PDF__]](https://arxiv.org/pdf/1704.02298)
@@ -37,7 +36,7 @@
 ## Explainable Recommendation Systems
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1806.03568.pdf)
 * TEM: Tree-enhanced Embedding Model for Explainable Recommendation [WWW 2018][[__PDF__]](http://staff.ustc.edu.cn/~hexn/papers/www18-tem.pdf)
-* Neural Attentional Rating Regression with Review-level Explanations [WWW 2018] [[__PDF__]](Neural Attentional Rating Regression with Review-level Explanations)
+* Neural Attentional Rating Regression with Review-level Explanations [WWW 2018] [[__PDF__]](http://www.thuir.cn/group/~YQLiu/publications/WWW2018_CC.pdf)
    - code : https://github.com/chenchongthu/NARRE
 
 ## Sequence-Aware Recommendation Systems
