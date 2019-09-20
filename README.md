@@ -23,6 +23,10 @@
   * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI 2019][[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)
   * Neural Graph Collaborative Filtering [SIGIR 2019] [[__PDF__]](https://arxiv.org/pdf/1905.08108v1.pdf)[[__code__]](https://paperswithcode.com/paper/neural-graph-collaborative-filtering)
   * Transnets: Learning to transform for recommendation [RecSys 2017][[__PDF__]](https://arxiv.org/pdf/1704.02298)[[__code__]](https://github.com/rosecatherinek/TransNets)
+  * Metric Factorization: Recommendation beyond Matrix Factorization [[__PDF__]](https://arxiv.org/pdf/1802.04606.pdf)[[__code__]](https://github.com/cheungdaven/metricfactorization)
+  * Improving Top-K Recommendation via Joint Collaborative Autoencoders
+  * NeuRec : On Nonlinear Transformation for Personalized Ranking
+  * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System
 
      
 ## Explainable Recommender Systems
