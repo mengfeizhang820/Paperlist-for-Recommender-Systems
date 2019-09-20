@@ -20,7 +20,6 @@
   * Neural Collaborative Filtering [WWW 2017][[__PDF__]](https://arxiv.org/pdf/1708.05031.pdf)[[__code__]](https://paperswithcode.com/paper/neural-collaborative-filtering-1#code)
   * Collaborative Denoising Auto-Encoders for Top-N Recommender Systems [[__pdf__]](https://alicezheng.org/papers/wsdm16-cdae.pdf) [[__code__]](https://github.com/gtshs2/Collaborative-Denoising-Auto-Encoder)
   * Outer Product-based Neural Collaborative Filtering [IJCAI 2018][[__PDF__]](https://arxiv.org/pdf/1808.03912v1.pdf)[[__code__]](https://github.com/duxy-me/ConvNCF)
-  * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI 2019][[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)
   * Neural Graph Collaborative Filtering [SIGIR 2019] [[__PDF__]](https://arxiv.org/pdf/1905.08108v1.pdf)[[__code__]](https://paperswithcode.com/paper/neural-graph-collaborative-filtering)
   * Transnets: Learning to transform for recommendation [RecSys 2017][[__PDF__]](https://arxiv.org/pdf/1704.02298)[[__code__]](https://github.com/rosecatherinek/TransNets)
   * Metric Factorization: Recommendation beyond Matrix Factorization [[__PDF__]](https://arxiv.org/pdf/1802.04606.pdf)[[__code__]](https://github.com/cheungdaven/metricfactorization)
