@@ -76,7 +76,7 @@
 
 ## Reinforcement Learning Approaches
 * DRN: A Deep Reinforcement Learning Framework for News Recommendation [WWW 2018] [[__PDF__]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
-* Exact-K Recommendation via Maximal Clique Optimization [KDD2019][[__PDF__]](https://arxiv.org/pdf/1905.07089.pdf)
+* Exact-K Recommendation via Maximal Clique Optimization [**Alibaba**][KDD2019][[__PDF__]](https://arxiv.org/pdf/1905.07089.pdf)
 ## Industry
 ### CTR Prediction
 
