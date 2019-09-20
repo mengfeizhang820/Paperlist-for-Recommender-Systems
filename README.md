@@ -89,6 +89,7 @@
 
 * Graph Intention Network for Click-through Rate Prediction in Sponsored Search [SIGIR2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331283)[Alibaba]
 
+
 * Order-aware Embedding Neural Network for CTR Prediction][SIGIR 2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331332) [Huawei]
 
 * Feature Generation by Convolutional Neural Network for Click-Through Rate Prediction [WWW 2019] [[__PDF__]](https://arxiv.org/abs/1904.04447) [Huawei]
@@ -111,5 +112,29 @@
 * Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [Alibaba] [2019][[__PDF__]](https://arxiv.org/pdf/1904.08030)
 * Deep Semantic Matching for Amazon Product Search [WSDM 2019][Amazon][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)
 
+### Alibaba papers-continuous updating
+* TDM：Learning Tree-based Deep Model for Recommender Systems [Match][KDD2018][__PDF__](https://arxiv.org/pdf/1801.02294.pdf)
+* Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [Match][2019][[__PDF__]](https://arxiv.org/pdf/1904.08030)
+* SDM: Sequential Deep Matching Model for Online Large-scale Recommender System [Long and short-term][CIKM 2019][__PDF__](https://arxiv.org/pdf/1909.00385v1.pdf)
 
+* Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba [Embedding][KDD 2018][[__PDF__]](https://arxiv.org/pdf/1803.02349.pdf)
+* Learning and Transferring IDs Representation in E-commerce [Embedding] [KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1712.08289.pdf)
+* ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation[Representations] [AAAI 2018]  [[__PDF__]](https://arxiv.org/pdf/1711.06632.pdf)
+
+* Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [Representations][KDD2018][[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)
+
+* Exact-K Recommendation via Maximal Clique Optimization [exact-K recommendation][KDD 2019][__PDF__](https://arxiv.org/pdf/1905.07089.pdf)
+
+* Privileged Features Distillation for E-Commerce Recommendations [CTR][Woodstock ’18][__PDF__](https://arxiv.org/pdf/1907.05171.pdf)
+* Representation Learning-Assisted Click-Through Rate Prediction [CTR][IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1906.04365)
+
+* Deep Session Interest Network for Click-Through Rate Prediction [CTR] [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1905.06482) 
+
+* Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction][CTR] [KDD2019] [[__PDF__]](https://arxiv.org/abs/1906.03776)  [[__code__]](https://github.com/oywtece/dstn)
+
+* Graph Intention Network for Click-through Rate Prediction in Sponsored Search [CTR] [SIGIR2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331283)
+* Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction [CTR][MLR][__PDF__](https://arxiv.org/pdf/1704.05194)
+* Deep Interest Evolution Network for Click-Through Rate Prediction [CTR][AAAI2019][__PDF__](https://arxiv.org/pdf/1809.03672.pdf)
+* Behavior Sequence Transformer for E-commerce Recommendation in Alibaba [CTR][__PDF__](https://arxiv.org/pdf/1905.06874.pdf)
+* Entire Space Multi-Task Model: An E ective Approach for Estimating Post-Click Conversion Rate[CVR][SIGIR2018][__PDF__](https://arxiv.org/pdf/1804.07931.pdf)
 
