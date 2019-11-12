@@ -51,7 +51,7 @@
 * A Dynamic Co-attention Network for Session-based Recommendation [CIKM 2019][[__PDF__]](http://delivery.acm.org/10.1145/3360000/3357964/p1461-chen.pdf?ip=159.226.43.46&id=3357964&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573525498_2dff93fd7304076faa5b5f8c0a604c13)
 * Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation [RecSys 2019][[__PDF__]](http://delivery.acm.org/10.1145/3350000/3347041/p462-ludewig.pdf?ip=159.226.43.46&id=3347041&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573526608_a3017670cb1efa7e677b5c6df4d11090)
 * Predictability Limits in Session-based Next Item Recommendation [RecSys 2019][[__PDF__]](http://delivery.acm.org/10.1145/3350000/3346990/p146-jarv.pdf?ip=159.226.43.46&id=3346990&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573526646_1a69ec9aec9e48f342f9ea4311e867eb)
-* A Collaborative Session-based Recommendation Approach with Parallel Memory Modules [SIGIR2019][[__PDF__](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-collaborative.pdf)[[__code__]](https://github.com/wmeirui/CSRM_SIGIR2019)
+* A Collaborative Session-based Recommendation Approach with Parallel Memory Modules [SIGIR2019][[__PDF__](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-collaborative.pdf) [[__code__]](https://github.com/wmeirui/CSRM_SIGIR2019)
 
 
 ### Last-N based Approaches
