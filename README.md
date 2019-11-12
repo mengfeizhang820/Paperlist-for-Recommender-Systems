@@ -15,6 +15,7 @@
   * Joint Deep Modeling of Users and Items Using Reviews for Recommendation [WSDM 2017][[__PDF__]](https://arxiv.org/pdf/1701.04783.pdf)[[__code__]](https://github.com/chenchongthu/DeepCoNN)
   * Multi-Pointer Co-Attention Networks for Recommendation [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1801.09251)[[__code__]](https://github.com/vanzytay/KDD2018_MPCN)
   * Gated attentive-autoencoder for content-aware recommendation [WSDM 2019][[__PDF__]](https://arxiv.org/pdf/1812.02869)[[__code__]](https://github.com/allenjack/GATE)
+  * IntentGC: a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation [KDD 2019] [[__PDF__]] (https://arxiv.org/pdf/1907.12377.pdf)
 
 
 ## Collaborative Filtering Recommendations
@@ -28,6 +29,7 @@
   * Collaborative Metric Learning [WWW2017][[__code__]](https://github.com/changun/CollMetric)[[__PDF__]](http://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)
   * NeuRec : On Nonlinear Transformation for Personalized Ranking [IJACA 2018] [[__PDF__]](https://www.ijcai.org/proceedings/2018/0510.pdf)[[__code__]](https://github.com/cheungdaven/NeuRec)
   * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI2019 oral]   [[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)[[__code__]](https://github.com/familyld/DeepCF)
+  * Graph neural networks for social recommendation [WWW 2019] [[__PDF__]] (https://arxiv.org/pdf/1902.07243.pdf)
 
      
 ## Explainable Recommender Systems
@@ -58,6 +60,7 @@
 * Graph Contextualized Self-Attention Network for Session-based Recommendation [IJCAI2019][[__PDF__]](https://www.ijcai.org/proceedings/2019/0547.pdf)
 * ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation [IJCAI2019][[__PDF__]](https://www.ijcai.org/proceedings/2019/0799.pdf)
 * Variational Session-based Recommendation Using Normalizing Flows [WWW2019] [[__PDF__]](http://www.terpconnect.umd.edu/~kpzhang/paper/Variational_Session.pdf)
+* Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks [CIKM2019] [[__PDF__]](https://ruihongqiu.github.io/files/CIKM19.pdf)
 
 
 ### Last-N based Approaches
@@ -80,6 +83,7 @@
 * Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics [KDD 2019]
 * Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit [KDD 2019]
 * Taxonomy-aware Multi-hop Reasoning Networks for Sequential Recommendation [WSDM 2019][[__code__]](https://github.com/RUCDM/TMRN)
+* Recommender System Using Sequential and Global Preference via Attention Mechanism and Topic Modeling [CIKM 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3360000/3358054/p1543-kang.pdf?ip=159.226.43.46&id=3358054&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573535854_b82afb9b1db8d135eb50d006ae391bd3)
 
 ## Knowledge Graph-based Recommendations
 * Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks [SIGIR 2018] [[__PDF__]](http://delivery.acm.org/10.1145/3220000/3210017/p505-huang.pdf?ip=159.226.43.46&id=3210017&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568100770_6bdfb19ed107162bbc2ad22e7ebf1463)
@@ -124,6 +128,8 @@
 * Real-time Personalization using Embeddings for Search Ranking at Airbnb [KDD 2018] [[__PDF__]](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 * Learning and Transferring IDs Representation in E-commerce  [KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1712.08289.pdf)[**Alibaba**]
 * Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1806.01973)[**Pinterest**]
+* Is a Single Embedding Enough ? Learning Node Representations that Capture Multiple Social Contexts [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1905.02138.pdf)
+* Representation Learning for Attributed Multiplex Heterogeneous Network [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1905.01669.pdf)
 
 ### Others
 * Deep Neural Networks for YouTube Recommendations  [RecSys 2016] [[__PDF__]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
