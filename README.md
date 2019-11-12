@@ -47,6 +47,7 @@
  
 * Streaming Session-based Recommendation [KDD 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3340000/3330839/p1569-guo.pdf?ip=159.226.43.46&id=3330839&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101881_a5ecfb5dd698417af3d9c29d32e00c86)
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019][[__PDF__]](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)[[__code__]](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  )
+* Sequence and Time Aware Neighborhood for Session-based Recommendations [SIGIR 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3340000/3331322/p1069-garg.pdf?ip=159.226.43.46&id=3331322&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573525805_7f93b9bbfe8a37dfde29904b9bdf5c42)
 * A Dynamic Co-attention Network for Session-based Recommendation [CIKM 2019][[__PDF__]](http://delivery.acm.org/10.1145/3360000/3357964/p1461-chen.pdf?ip=159.226.43.46&id=3357964&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573525498_2dff93fd7304076faa5b5f8c0a604c13)
 
 
