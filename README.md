@@ -54,6 +54,7 @@
 * A Collaborative Session-based Recommendation Approach with Parallel Memory Modules [SIGIR2019][[__PDF__]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-collaborative.pdf) [[__code__]](https://github.com/wmeirui/CSRM_SIGIR2019)
 * Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks [CIKM2019][[__PDF__]](https://ruihongqiu.github.io/files/CIKM19.pdf)
 * Session-based Recommendation with Hierarchical Memory Networks [CIKM] [[__PDF__]](http://delivery.acm.org/10.1145/3360000/3358120/p2181-song.pdf?ip=159.226.43.46&id=3358120&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573527205_ac54c21b536f562eadbbf5d53d7ed684)
+* Graph Contextualized Self-Attention Network for Session-based Recommendation [IJCAI2019][[__PDF__]](https://www.ijcai.org/proceedings/2019/0547.pdf)
 
 
 ### Last-N based Approaches
