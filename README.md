@@ -113,6 +113,12 @@
 
 ### Embedding
 * Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017][[__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
+* DeepWalk- Online Learning of Social Representations [KDD 2014][[__PDF__]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf)
+* LINE - Large-scale Information Network Embedding [Microsoft 2015][[__PDF__]](https://arxiv.org/pdf/1503.03578.pdf)
+* Node2vec - Scalable Feature Learning for Networks [Stanford 2016][[__PDF__]](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
+* Structural Deep Network Embedding [KDD2016] [[__PDF__]](https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)
+
+* Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017][[__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
 * Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba [KDD 2018][Alibaba][[__PDF__]](https://arxiv.org/pdf/1803.02349.pdf)
 * Real-time Personalization using Embeddings for Search Ranking at Airbnb [KDD 2018] [[__PDF__]](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 * Learning and Transferring IDs Representation in E-commerce [Alibaba] [KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1712.08289.pdf)
