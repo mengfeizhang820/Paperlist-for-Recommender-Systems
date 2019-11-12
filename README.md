@@ -15,7 +15,6 @@
   * Joint Deep Modeling of Users and Items Using Reviews for Recommendation [WSDM 2017][[__PDF__]](https://arxiv.org/pdf/1701.04783.pdf)[[__code__]](https://github.com/chenchongthu/DeepCoNN)
   * Multi-Pointer Co-Attention Networks for Recommendation [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1801.09251)[[__code__]](https://github.com/vanzytay/KDD2018_MPCN)
   * Gated attentive-autoencoder for content-aware recommendation [WSDM 2019][[__PDF__]](https://arxiv.org/pdf/1812.02869)[[__code__]](https://github.com/allenjack/GATE)
-  * IntentGC: a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation [KDD 2019] [[__PDF__]] (https://arxiv.org/pdf/1907.12377.pdf)
 
 
 ## Collaborative Filtering Recommendations
@@ -29,7 +28,7 @@
   * Collaborative Metric Learning [WWW2017][[__code__]](https://github.com/changun/CollMetric)[[__PDF__]](http://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)
   * NeuRec : On Nonlinear Transformation for Personalized Ranking [IJACA 2018] [[__PDF__]](https://www.ijcai.org/proceedings/2018/0510.pdf)[[__code__]](https://github.com/cheungdaven/NeuRec)
   * DeepCF : A Unified Framework of Representation Learning and Matching Function Learning in Recommender System [AAAI2019 oral]   [[__PDF__]](https://arxiv.org/pdf/1901.04704v1.pdf)[[__code__]](https://github.com/familyld/DeepCF)
-  * Graph neural networks for social recommendation [WWW 2019] [[__PDF__]] (https://arxiv.org/pdf/1902.07243.pdf)
+  * Graph neural networks for social recommendation [WWW2019] [[__PDF__]](https://arxiv.org/pdf/1902.07243.pdf)
 
      
 ## Explainable Recommender Systems
@@ -96,6 +95,10 @@
 ## Reinforcement Learning Approaches
 * DRN: A Deep Reinforcement Learning Framework for News Recommendation [WWW 2018] [[__PDF__]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
 * Exact-K Recommendation via Maximal Clique Optimization [KDD2019][[__PDF__]](https://arxiv.org/pdf/1905.07089.pdf)[**Alibaba**]
+* Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning [[SIGIR 2019]][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331237&ftid=2073431&dwn=1&CFID=84209421&CFTOKEN=9a641ce449e844f4-AD0A0DFF-0D57-C718-7A3C3F3EA918C999)
+* Reinforcement Learning for User Intent Prediction in Customer Service Bots [[SIGIR2019]][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331370&ftid=2073637&dwn=1&CFID=84209311&CFTOKEN=732e7121df9e7cb4-AD0489A6-BAFB-8E0B-14DD2161DC9EA0EB)
+* Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [[KDD2019]][[__PDF__]](https://arxiv.org/pdf/1902.05570.pdf)
+
 ## Industry
 ### CTR Prediction
 
