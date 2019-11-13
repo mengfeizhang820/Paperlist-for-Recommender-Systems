@@ -60,7 +60,7 @@
 * Graph Contextualized Self-Attention Network for Session-based Recommendation [IJCAI2019][[__PDF__]](https://www.ijcai.org/proceedings/2019/0547.pdf)
 * ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation [IJCAI2019][[__PDF__]](https://www.ijcai.org/proceedings/2019/0799.pdf)
 * Variational Session-based Recommendation Using Normalizing Flows [WWW2019] [[__PDF__]](http://www.terpconnect.umd.edu/~kpzhang/paper/Variational_Session.pdf)
-* Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks [CIKM2019] [[__PDF__]](https://ruihongqiu.github.io/files/CIKM19.pdf)
+
 
 
 ### Last-N based Approaches
