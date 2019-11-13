@@ -96,9 +96,9 @@
 ## Reinforcement Learning Approaches
 * DRN: A Deep Reinforcement Learning Framework for News Recommendation [WWW 2018] [[__PDF__]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
 * Exact-K Recommendation via Maximal Clique Optimization [KDD2019][[__PDF__]](https://arxiv.org/pdf/1905.07089.pdf)[**Alibaba**]
-* Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning [[SIGIR 2019]][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331237&ftid=2073431&dwn=1&CFID=84209421&CFTOKEN=9a641ce449e844f4-AD0A0DFF-0D57-C718-7A3C3F3EA918C999)
-* Reinforcement Learning for User Intent Prediction in Customer Service Bots [[SIGIR2019]][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331370&ftid=2073637&dwn=1&CFID=84209311&CFTOKEN=732e7121df9e7cb4-AD0489A6-BAFB-8E0B-14DD2161DC9EA0EB)
-* Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [[KDD2019]][[__PDF__]](https://arxiv.org/pdf/1902.05570.pdf)
+* Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning [SIGIR 2019][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331237&ftid=2073431&dwn=1&CFID=84209421&CFTOKEN=9a641ce449e844f4-AD0A0DFF-0D57-C718-7A3C3F3EA918C999)
+* Reinforcement Learning for User Intent Prediction in Customer Service Bots [SIGIR2019][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331370&ftid=2073637&dwn=1&CFID=84209311&CFTOKEN=732e7121df9e7cb4-AD0489A6-BAFB-8E0B-14DD2161DC9EA0EB)
+* Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [KDD2019][[__PDF__]](https://arxiv.org/pdf/1902.05570.pdf)
 
 ## Industry
 ### CTR Prediction
