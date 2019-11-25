@@ -50,8 +50,7 @@
 * Streaming Session-based Recommendation [KDD 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3340000/3330839/p1569-guo.pdf?ip=159.226.43.46&id=3330839&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101881_a5ecfb5dd698417af3d9c29d32e00c86)
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019][[__PDF__]](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)[[__code__]](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  )
 * Sequence and Time Aware Neighborhood for Session-based Recommendations [SIGIR 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3340000/3331322/p1069-garg.pdf?ip=159.226.43.46&id=3331322&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573525805_7f93b9bbfe8a37dfde29904b9bdf5c42)
-* A Dynamic Co-attention Network for Session-based Recommendation [CIKM 2019][[__PDF__]](http://delivery.acm.org/10.1145/3360000/3357964/p1461-chen.pdf?ip=159.226.43.46&id=3357964&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573525498_2dff93fd7304076faa5b5f8c0a604c13)
-* Personalizing Graph Neural Networks with Attention Mechanism for Session-based Recommendation [TKDE 2019] [[__PDF__]](https://arxiv.org/pdf/1910.08887.pdf)
+
 * Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation [RecSys 2019][[__PDF__]](http://delivery.acm.org/10.1145/3350000/3347041/p462-ludewig.pdf?ip=159.226.43.46&id=3347041&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573526608_a3017670cb1efa7e677b5c6df4d11090)
 * Predictability Limits in Session-based Next Item Recommendation [RecSys 2019][[__PDF__]](http://delivery.acm.org/10.1145/3350000/3346990/p146-jarv.pdf?ip=159.226.43.46&id=3346990&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573526646_1a69ec9aec9e48f342f9ea4311e867eb)
 * Empirical Analysis of Session-Based Recommendation Algorithms [2019] [[__PDF__]](https://arxiv.org/pdf/1910.12781.pdf)[[__code__]](https://github.com/rn5l/session-rec)
@@ -67,14 +66,23 @@
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018][[__PDF__]](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)[[__code__]](https://github.com/graytowne/caser_pytorch)
 * Self-Attentive Sequential Recommendation [ICDM 2018] [[__PDF__]](https://arxiv.org/pdf/1808.09781)[[__code__]](https://github.com/kang205/SASRec)
 * Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF__]](https://arxiv.org/pdf/1906.09217.pdf)[[__code__]](https://github.com/graytowne/caser_pytorch)
-
+* Next Item Recommendation with Self-Attention [ACM 2018][[__PDF__]](https://arxiv.org/pdf/1808.06414)[[__code__]](https://github.com/cheungdaven/DeepRec/blob/master/models/seq_rec/AttRec.py)
 
 ### Long and short-term Sequential Recommendations
-* Next Item Recommendation with Self-Attention [ACM 2018][[__PDF__]](https://arxiv.org/pdf/1808.06414)[[__code__]](https://github.com/cheungdaven/DeepRec/blob/master/models/seq_rec/AttRec.py)
+
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1804.10862)[[__code__]](https://github.com/tebesu/CollaborativeMemoryNetwork)
 * Sequential Recommender System based on Hierarchical Attention Network [IJCAI 2018] [[__PDF__]](https://www.ijcai.org/proceedings/2018/0546.pdf)[[__code__]](https://github.com/uctoronto/SHAN)
-
-  
+* Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.04381.pdf)
+* A Large-scale Sequential Deep Matching Model for E-commerce Recommendation[CIKM 2019][[__PDF__]](https://arxiv.org/pdf/1909.00385.pdf)[[__code__]]( https://github. com/alicogintel/SDM)
+* Recurrent Neural Networks for Long and Short-Term Sequential Recommendation [RecSys 2018] [[__PDF__]](https://arxiv.org/pdf/1807.09142.pdf)
+* A Dynamic Co-attention Network for Session-based Recommendation [CIKM 2019][[__PDF__]](http://delivery.acm.org/10.1145/3360000/3357964/p1461-chen.pdf?ip=159.226.43.46&id=3357964&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573525498_2dff93fd7304076faa5b5f8c0a604c13)
+* Personalizing Graph Neural Networks with Attention Mechanism for Session-based Recommendation [TKDE 2019] [[__PDF__]](https://arxiv.org/pdf/1910.08887.pdf)
+* A Long-Short Demands-Aware Model for Next-Item Recommendation [COIR 2019][[__PDF__]](https://arxiv.org/pdf/1903.00066.pdf)
+* Learning from History and Present : Next-item Recommendation via Discriminatively Exploiting User Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
+* Towards Neural Mixture Recommender for Long Range Dependent User Sequences[WWW 2019][[__PDF__]](https://arxiv.org/pdf/1902.08588.pdf)
+* A Review-Driven Neural Model for Sequential Recommendation [IJCAI 2019] [[__PDF__]](https://arxiv.org/pdf/1907.00590.pdf)
+* Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation [IJCAI 2019] [[__PDF__]](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/IJCAI19-ready_v1.pdf)[[__code__]](https://github.com/zepingyu0512/sli_rec)[**Microsoft**]
+* Long- and Short-term Preference Learning for Next POI Recommendation [CIKM 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3360000/3358171/p2301-wu.pdf?ip=159.226.43.46&id=3358171&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1574662810_7d7654698714493518013d4fde64f9c2)
 ### Context-Aware Sequential Recommendations
 * Context-Aware Sequential Recommendations withStacked Recurrent Neural Networks [WWW 2019][[__PDF__]](http://delivery.acm.org/10.1145/3320000/3313567/p3172-rakkappan.pdf?ip=159.226.43.46&id=3313567&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568094616_ce11de1b93788a1072a48c6212d24287)[[__code__]](https://bitbucket.org/cdal/stackedcontextawarernn)
   
