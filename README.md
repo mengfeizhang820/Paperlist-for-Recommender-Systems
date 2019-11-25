@@ -73,7 +73,7 @@
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1804.10862)[[__code__]](https://github.com/tebesu/CollaborativeMemoryNetwork)
 * Sequential Recommender System based on Hierarchical Attention Network [IJCAI 2018] [[__PDF__]](https://www.ijcai.org/proceedings/2018/0546.pdf)[[__code__]](https://github.com/uctoronto/SHAN)
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.04381.pdf)
-* A Large-scale Sequential Deep Matching Model for E-commerce Recommendation[CIKM 2019][[__PDF__]](https://arxiv.org/pdf/1909.00385.pdf)[[__code__]]( https://github. com/alicogintel/SDM)
+* A Large-scale Sequential Deep Matching Model for E-commerce Recommendation[CIKM 2019][[__PDF__]](https://arxiv.org/pdf/1909.00385.pdf)[[__code__]](https://github.com/alicogintel/SDM)
 * Recurrent Neural Networks for Long and Short-Term Sequential Recommendation [RecSys 2018] [[__PDF__]](https://arxiv.org/pdf/1807.09142.pdf)
 * A Dynamic Co-attention Network for Session-based Recommendation [CIKM 2019][[__PDF__]](http://delivery.acm.org/10.1145/3360000/3357964/p1461-chen.pdf?ip=159.226.43.46&id=3357964&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573525498_2dff93fd7304076faa5b5f8c0a604c13)
 * Personalizing Graph Neural Networks with Attention Mechanism for Session-based Recommendation [TKDE 2019] [[__PDF__]](https://arxiv.org/pdf/1910.08887.pdf)
