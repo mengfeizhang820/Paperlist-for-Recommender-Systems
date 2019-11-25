@@ -47,16 +47,16 @@
 * RepeatNet: A Repeat Aware Neural Recommendation Machine for Session-based Recommendation [AAAI 2019][[__PDF__]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ren-repeatnet-2019.pdf)[[__code__]](https://github.com/PengjieRen/RepeatNet)
 * Session-based Recommendation with Graph Neural Networks [AAAI 2019][[__PDF__]](https://arxiv.org/pdf/1811.00855.pdf)[[__code__]](https://github.com/CRIPAC-DIG/SR-GNN)
  
-* Streaming Session-based Recommendation [KDD 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3340000/3330839/p1569-guo.pdf?ip=159.226.43.46&id=3330839&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568101881_a5ecfb5dd698417af3d9c29d32e00c86)
+* Streaming Session-based Recommendation [KDD 2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3292500.3330839)
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019][[__PDF__]](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)[[__code__]](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  )
-* Sequence and Time Aware Neighborhood for Session-based Recommendations [SIGIR 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3340000/3331322/p1069-garg.pdf?ip=159.226.43.46&id=3331322&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1573525805_7f93b9bbfe8a37dfde29904b9bdf5c42)
+* Sequence and Time Aware Neighborhood for Session-based Recommendations [SIGIR 2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331322)
 
 * Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation [RecSys 2019][[__PDF__]](https://web-ainf.aau.at/pub/jannach/files/Conference_RecSys_2019_sessions.pdf)
-* Predictability Limits in Session-based Next Item Recommendation [RecSys 2019][[__PDF__]](http://delivery.acm.org/10.1145/3350000/3346990/p146-jarv.pdf?ip=159.226.43.46&id=3346990&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574662980_1e9f598bf98d8cd6573e17ab53a7df68)
+* Predictability Limits in Session-based Next Item Recommendation [RecSys 2019][[__PDF__]](https://dl.acm.org/citation.cfm?id=3346990)
 * Empirical Analysis of Session-Based Recommendation Algorithms [2019] [[__PDF__]](https://arxiv.org/pdf/1910.12781.pdf)[[__code__]](https://github.com/rn5l/session-rec)
 * A Collaborative Session-based Recommendation Approach with Parallel Memory Modules [SIGIR2019][[__PDF__]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-collaborative.pdf) [[__code__]](https://github.com/wmeirui/CSRM_SIGIR2019)
-* Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks [CIKM2019][[__PDF__]](http://delivery.acm.org/10.1145/3360000/3358010/p579-qiu.pdf?ip=159.226.43.46&id=3358010&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1574663064_08031ef3b5b7051bc160faec6ae971e0)
-* Session-based Recommendation with Hierarchical Memory Networks [CIKM2019] [[__PDF__]](http://delivery.acm.org/10.1145/3360000/3358120/p2181-song.pdf?ip=159.226.43.46&id=3358120&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573527205_ac54c21b536f562eadbbf5d53d7ed684)
+* Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks [CIKM2019][[__PDF__]](https://dl.acm.org/citation.cfm?id=3358010)
+* Session-based Recommendation with Hierarchical Memory Networks [CIKM2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3358120)
 * ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation [IJCAI2019][[__PDF__]](https://www.ijcai.org/proceedings/2019/0799.pdf)
 * Variational Session-based Recommendation Using Normalizing Flows [WWW2019] [[__PDF__]](http://www.terpconnect.umd.edu/~kpzhang/paper/Variational_Session.pdf)
 
