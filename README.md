@@ -78,7 +78,7 @@
 * Recurrent Neural Networks for Long and Short-Term Sequential Recommendation [RecSys 2018] [[__PDF__]](https://arxiv.org/pdf/1807.09142.pdf)
 * A Dynamic Co-attention Network for Session-based Recommendation [CIKM 2019][[__PDF__]](http://delivery.acm.org/10.1145/3360000/3357964/p1461-chen.pdf?ip=159.226.43.46&id=3357964&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1573525498_2dff93fd7304076faa5b5f8c0a604c13)
 * Personalizing Graph Neural Networks with Attention Mechanism for Session-based Recommendation [TKDE 2019] [[__PDF__]](https://arxiv.org/pdf/1910.08887.pdf)
-* A Long-Short Demands-Aware Model for Next-Item Recommendation [COIR 2019][[__PDF__]](https://arxiv.org/pdf/1903.00066.pdf)
+* A Long-Short Demands-Aware Model for Next-Item Recommendation [CoRR 2019][[__PDF__]](https://arxiv.org/pdf/1903.00066.pdf)
 * Learning from History and Present : Next-item Recommendation via Discriminatively Exploiting User Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
 * Towards Neural Mixture Recommender for Long Range Dependent User Sequences[WWW 2019][[__PDF__]](https://arxiv.org/pdf/1902.08588.pdf)
 * A Review-Driven Neural Model for Sequential Recommendation [IJCAI 2019] [[__PDF__]](https://arxiv.org/pdf/1907.00590.pdf)
