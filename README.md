@@ -113,6 +113,8 @@
 * Entire Space Multi-Task Model: An E ective Approach for Estimating Post-Click Conversion Rate [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.07931.pdf)
 * Conversion Rate Prediction via Post-Click Behaviour Modeling
 * erceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [KDD2018][[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)
+* Modeling task relationships in multi-task learning with multi-gate mixture-of-experts
+* Recommending What Video to Watch Next: A Multitask Ranking System
 
 ## Industry
 ### CTR Prediction
