@@ -115,7 +115,9 @@
 * erceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [KDD2018][[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)
 * Modeling task relationships in multi-task learning with multi-gate mixture-of-experts
 * Recommending What Video to Watch Next: A Multitask Ranking System
-
+## Re-ranking
+* Personalized Re-ranking for Recommendation
+* Learning a Deep Listwise Context Model for Ranking Refinement
 ## Industry
 ### CTR Prediction
 
