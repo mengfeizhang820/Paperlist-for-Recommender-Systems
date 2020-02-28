@@ -109,6 +109,9 @@
 * Reinforcement Learning for User Intent Prediction in Customer Service Bots [SIGIR2019][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331370&ftid=2073637&dwn=1&CFID=84209311&CFTOKEN=732e7121df9e7cb4-AD0489A6-BAFB-8E0B-14DD2161DC9EA0EB)
 * Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [KDD2019][[__PDF__]](https://arxiv.org/pdf/1902.05570.pdf)
 
+## Multi-behavior learning for Recommendation
+* Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI2020][[__PDF__]](http://www.thuir.cn/group/~mzhang/publications/AAAI2020-Chenchong.pdf)[[__code__]](https://github.com/chenchongthu/EHCF)
+
 ## Multi-task learning for Recommendation
 * Entire Space Multi-Task Model: An E ective Approach for Estimating Post-Click Conversion Rate [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.07931.pdf)
 * Conversion Rate Prediction via Post-Click Behaviour Modeling
