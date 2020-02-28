@@ -120,7 +120,7 @@
 * Recommending What Video to Watch Next: A Multitask Ranking System [RecSys2019][[__PDF__]](https://daiwk.github.io/assets/youtube-multitask.pdf)
 ## Re-ranking
 * Personalized Re-ranking for Recommendation [RecSys2019][[__PDF__]](https://arxiv.org/pdf/1904.06813.pdf)[[__code__]](https://github.com/rank2rec/rerank)
-* Learning a Deep Listwise Context Model for Ranking Refinement [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.05936.pdf)[[__code__]](https://github.com/QingyaoAi/Deep- Listwise- Context- Model- for- Ranking- Refinement)
+* Learning a Deep Listwise Context Model for Ranking Refinement [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.05936.pdf)[[__code__]](https://github.com/QingyaoAi/Deep-Listwise-Context-Model-for-Ranking-Refinement)
 ## Industry
 ### CTR Prediction
 
