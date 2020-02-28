@@ -115,12 +115,12 @@
 ## Multi-task learning for Recommendation
 * Entire Space Multi-Task Model: An E ective Approach for Estimating Post-Click Conversion Rate [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.07931.pdf)
 * Conversion Rate Prediction via Post-Click Behaviour Modeling
-* erceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [KDD2018][[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)
-* Modeling task relationships in multi-task learning with multi-gate mixture-of-experts
-* Recommending What Video to Watch Next: A Multitask Ranking System
+* Rerceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [KDD2018][[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)
+* Modeling task relationships in multi-task learning with multi-gate mixture-of-experts [KDD2018][[__PDF__]](https://dl.acm.org/doi/10.1145/3219819.3220007)
+* Recommending What Video to Watch Next: A Multitask Ranking System [RecSys2019][[__PDF__]](https://daiwk.github.io/assets/youtube-multitask.pdf)
 ## Re-ranking
-* Personalized Re-ranking for Recommendation
-* Learning a Deep Listwise Context Model for Ranking Refinement
+* Personalized Re-ranking for Recommendation [RecSys2019][[__PDF__]](https://arxiv.org/pdf/1904.06813.pdf)[[__code__]](https://github.com/rank2rec/rerank)
+* Learning a Deep Listwise Context Model for Ranking Refinement [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.05936.pdf)[[__code__]](https://github.com/QingyaoAi/Deep- Listwise- Context- Model- for- Ranking- Refinement)
 ## Industry
 ### CTR Prediction
 
