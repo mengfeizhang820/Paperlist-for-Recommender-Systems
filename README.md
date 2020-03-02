@@ -188,6 +188,7 @@
 * [**CTR**] Graph Intention Network for Click-through Rate Prediction in Sponsored Search  [SIGIR2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331283)
 * [**CTR**] Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction [MLR][[__PDF__]](https://arxiv.org/pdf/1704.05194)
 * [**CTR**] Deep Interest Evolution Network for Click-Through Rate Prediction [AAAI2019][[__PDF__]](https://arxiv.org/pdf/1809.03672.pdf)
+* [**CTR**] Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction[KDD2019] [[__PDF__]](https://arxiv.org/pdf/1905.09248.pdf)[[__code__]](https://github.com/UIC-Paper/MIMN)
 * [**CTR**] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba [[__PDF__]](https://arxiv.org/pdf/1905.06874.pdf)
 * [**CVR**] Entire Space Multi-Task Model: An E ective Approach for Estimating Post-Click Conversion Rate [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.07931.pdf)
 
