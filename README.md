@@ -130,6 +130,7 @@
 * Order-aware Embedding Neural Network for CTR Prediction][SIGIR 2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331332) [**Huawei**]
 
 * Feature Generation by Convolutional Neural Network for Click-Through Rate Prediction [WWW 2019] [[__PDF__]](https://arxiv.org/abs/1904.04447) [**Huawei**]
+*  Interaction-aware Factorization Machines for Recommender Systems [AAAI2019] [[__PDF__]](https://arxiv.org/pdf/1902.09757.pdf)[[__code__]](https://github.com/cstur4/interaction-aware-factorization-machines)[**Tencent**]
 
 
 ### Embedding
