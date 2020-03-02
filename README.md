@@ -84,7 +84,7 @@
 * A Review-Driven Neural Model for Sequential Recommendation [IJCAI 2019] [[__PDF__]](https://arxiv.org/pdf/1907.00590.pdf)
 * Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation [IJCAI 2019] [[__PDF__]](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/IJCAI19-ready_v1.pdf)[[__code__]](https://github.com/zepingyu0512/sli_rec)[**Microsoft**]
 * Long- and Short-term Preference Learning for Next POI Recommendation [CIKM 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3360000/3358171/p2301-wu.pdf?ip=159.226.43.46&id=3358171&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1574662810_7d7654698714493518013d4fde64f9c2)
-* Neural News Recommendation with Long- and Short-term User Representations [ACL 2019] [** Microsoft**][[__PDF__]](https://nvagus.github.io/paper/ACL19NewsRec.pdf)
+* Neural News Recommendation with Long- and Short-term User Representations [ACL 2019][**Microsoft**][[__PDF__]](https://nvagus.github.io/paper/ACL19NewsRec.pdf)
 ### Context-Aware Sequential Recommendations
 * Context-Aware Sequential Recommendations withStacked Recurrent Neural Networks [WWW 2019][[__PDF__]](http://delivery.acm.org/10.1145/3320000/3313567/p3172-rakkappan.pdf?ip=159.226.43.46&id=3313567&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568094616_ce11de1b93788a1072a48c6212d24287)[[__code__]](https://bitbucket.org/cdal/stackedcontextawarernn)
   
@@ -105,7 +105,6 @@
 
 ## Reinforcement Learning Approaches
 * DRN: A Deep Reinforcement Learning Framework for News Recommendation [WWW 2018] [[__PDF__]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
-* Exact-K Recommendation via Maximal Clique Optimization [KDD2019][[__PDF__]](https://arxiv.org/pdf/1905.07089.pdf)[**Alibaba**]
 * Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning [SIGIR 2019][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331237&ftid=2073431&dwn=1&CFID=84209421&CFTOKEN=9a641ce449e844f4-AD0A0DFF-0D57-C718-7A3C3F3EA918C999)
 * Reinforcement Learning for User Intent Prediction in Customer Service Bots [SIGIR2019][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331370&ftid=2073637&dwn=1&CFID=84209311&CFTOKEN=732e7121df9e7cb4-AD0489A6-BAFB-8E0B-14DD2161DC9EA0EB)
 * Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [KDD2019][[__PDF__]](https://arxiv.org/pdf/1902.05570.pdf)
