@@ -167,6 +167,7 @@
 * [**Representations**] Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [KDD2018][[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)
 
 * [**exact-K recommendation**] Exact-K Recommendation via Maximal Clique Optimization [KDD 2019][[__PDF__]](https://arxiv.org/pdf/1905.07089.pdf)
+* [**Explain**]A Capsule Network for Recommendation and Explaining What You Like and Dislike [SIGIR2019][[__PDF__]](https://arxiv.org/pdf/1907.00687.pdf)[[__code__]](https://github.com/WHUIR/CARP)
 
 * [**CTR**] Privileged Features Distillation for E-Commerce Recommendations [Woodstock ’18][[__PDF__]](https://arxiv.org/pdf/1907.05171.pdf)
 * [**CTR**] Representation Learning-Assisted Click-Through Rate Prediction [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1906.04365)
