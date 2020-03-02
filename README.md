@@ -31,6 +31,7 @@
   * Graph neural networks for social recommendation [WWW2019] [[__PDF__]](https://arxiv.org/pdf/1902.07243.pdf)
   * STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems [[IJCAI2019]] [[__PDF__]](https://arxiv.org/pdf/1905.13129.pdf) [[__code__]](https://github.com/jennyzhang0215/STAR-GCN)
   * Unifying Explicit and Implicit Feedback for Rating Prediction and Ranking Recommendation Tasks [[ICTIR2019]] [[__PDF__]](http://delivery.acm.org/10.1145/3350000/3344225/p149-jadidinejad.pdf?ip=159.226.43.46&id=3344225&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574690604_f26ab14b23dc0c85179633b7bd835f03) [[__code__]](https://github.com/amirj/unifying_explicit_implicit)
+  * Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI2020] [[__PDF__]](http://yongfeng.me/attach/chen-aaai2020.pdf)[[__code__]](https://github.com/chenchongthu/EHCF)
      
 ## Explainable Recommender Systems
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1806.03568.pdf)
