@@ -157,7 +157,7 @@
 
 * Deep Semantic Matching for Amazon Product Search [WSDM 2019][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)[**Amazon**]
 * Joint Optimization of Tree-based Index and Deep Model for Recommender Systems [NeurIPS 2019][[__PDF__]] (https://arxiv.org/pdf/1902.07565.pdf)[**Tencent**][**Match**]
-Real-time Attention Based Look-alike Model for Recommender System [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1906.05022) [**Tencent**]
+* Real-time Attention Based Look-alike Model for Recommender System [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1906.05022) [**Tencent**]
 
 ### Alibaba papers-continuous updating
 * [**Match**] TDM：Learning Tree-based Deep Model for Recommender Systems [KDD2018] [[__PDF__]](https://arxiv.org/pdf/1801.02294.pdf)
