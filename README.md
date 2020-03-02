@@ -156,7 +156,8 @@
 * Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
 
 * Deep Semantic Matching for Amazon Product Search [WSDM 2019][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)[**Amazon**]
-* Joint Optimization of Tree-based Index and Deep Model for Recommender Systems [NeurIPS 2019][[__PDF__]] (https://arxiv.org/pdf/1902.07565.pdf)[**Tencent**][**Match**]
+* Joint Optimization of Tree-based Index and Deep Model for Recommender Systems [NeurIPS 2019]
+[[__PDF__]](https://arxiv.org/pdf/1902.07565.pdf)[**Tencent**][**Match**]
 * Real-time Attention Based Look-alike Model for Recommender System [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1906.05022) [**Tencent**]
 
 ### Alibaba papers-continuous updating
