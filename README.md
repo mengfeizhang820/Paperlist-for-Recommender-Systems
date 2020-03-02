@@ -126,19 +126,10 @@
 
 * DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [[IJCAI 2017] [[__PDF__]](https://arxiv.org/abs/1703.04247) [**Huawei**]
 * xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems] [KDD2018] [[__PDF__]](https://arxiv.org/pdf/1803.05170.pdf) [**Microsoft**]
-* Representation Learning-Assisted Click-Through Rate Prediction [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1906.04365)[**Alibaba**]
-
-* Deep Session Interest Network for Click-Through Rate Prediction [IJCAI 2019] [[__PDF__]](https://arxiv.org/abs/1905.06482) [**Alibaba**]
-
-* Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction] [KDD2019] [[__PDF__]](https://arxiv.org/abs/1906.03776)  [[__code__]](https://github.com/oywtece/dstn)[**Alibaba**]
-
-* Graph Intention Network for Click-through Rate Prediction in Sponsored Search [SIGIR2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331283)[**Alibaba**]
-
 
 * Order-aware Embedding Neural Network for CTR Prediction][SIGIR 2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331332) [**Huawei**]
 
 * Feature Generation by Convolutional Neural Network for Click-Through Rate Prediction [WWW 2019] [[__PDF__]](https://arxiv.org/abs/1904.04447) [**Huawei**]
-
 
 
 ### Embedding
@@ -149,20 +140,19 @@
 * Structural Deep Network Embedding [KDD2016] [[__PDF__]](https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)
 
 * Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017][[__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
-* Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1803.02349.pdf)[**Alibaba**]
+
 * Real-time Personalization using Embeddings for Search Ranking at Airbnb [KDD 2018] [[__PDF__]](https://astro.temple.edu/~tua95067/kdd2018.pdf)
-* Learning and Transferring IDs Representation in E-commerce  [KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1712.08289.pdf)[**Alibaba**]
+
 * Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1806.01973)[**Pinterest**]
 * Is a Single Embedding Enough ? Learning Node Representations that Capture Multiple Social Contexts [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1905.02138.pdf)
 * Representation Learning for Attributed Multiplex Heterogeneous Network [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1905.01669.pdf)
 
 ### Others
-* Deep Neural Networks for YouTube Recommendations  [RecSys 2016] [[__PDF__]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
-* ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation [AAAI 2018] [**Alibaba**] [[__PDF__]](https://arxiv.org/pdf/1711.06632.pdf)[**Youtube**]
+* Deep Neural Networks for YouTube Recommendations  [RecSys 2016] [[__PDF__]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)[**Youtube**]
 * Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018][[__PDF__]](http://delivery.acm.org/10.1145/3160000/3159727/p46-beutel.pdf?ip=159.226.43.46&id=3159727&acc=OA&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1568103183_98476c18cb349d52e835c76d85b83253)[**Youtube**]
 * Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
-* Perceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [KDD2018] [[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)[**Alibaba**] 
-* Multi-Interest Network with Dynamic Routing for Recommendation at Tmall  [2019][[__PDF__]](https://arxiv.org/pdf/1904.08030)[**Alibaba**] 
+
+
 * Deep Semantic Matching for Amazon Product Search [WSDM 2019][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)[**Amazon**]
 
 ### Alibaba papers-continuous updating
@@ -191,4 +181,3 @@
 * [**CTR**] Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction[KDD2019] [[__PDF__]](https://arxiv.org/pdf/1905.09248.pdf)[[__code__]](https://github.com/UIC-Paper/MIMN)
 * [**CTR**] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba [[__PDF__]](https://arxiv.org/pdf/1905.06874.pdf)
 * [**CVR**] Entire Space Multi-Task Model: An E ective Approach for Estimating Post-Click Conversion Rate [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.07931.pdf)
-
