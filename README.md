@@ -108,6 +108,8 @@
 * Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning [SIGIR 2019][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331237&ftid=2073431&dwn=1&CFID=84209421&CFTOKEN=9a641ce449e844f4-AD0A0DFF-0D57-C718-7A3C3F3EA918C999)
 * Reinforcement Learning for User Intent Prediction in Customer Service Bots [SIGIR2019][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331370&ftid=2073637&dwn=1&CFID=84209311&CFTOKEN=732e7121df9e7cb4-AD0489A6-BAFB-8E0B-14DD2161DC9EA0EB)
 * Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [KDD2019][[__PDF__]](https://arxiv.org/pdf/1902.05570.pdf)
+* Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology  [IJCAI 2019] [[__PDF__]](https://arxiv.org/pdf/1905.12767.pdf) [**Youtubee**]
+* Top-K Off-Policy Correction for a REINFORCE Recommender System [WSDM 2019] [[__PDF__]](https://arxiv.org/pdf/1812.02353.pdf)[[**Youtube**]]
 
 ## Multi-behavior learning for Recommendation
 * Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI2020][[__PDF__]](http://www.thuir.cn/group/~mzhang/publications/AAAI2020-Chenchong.pdf)[[__code__]](https://github.com/chenchongthu/EHCF)
@@ -153,8 +155,9 @@
 * Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018][[__PDF__]](http://delivery.acm.org/10.1145/3160000/3159727/p46-beutel.pdf?ip=159.226.43.46&id=3159727&acc=OA&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1568103183_98476c18cb349d52e835c76d85b83253)[**Youtube**]
 * Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
 
-
 * Deep Semantic Matching for Amazon Product Search [WSDM 2019][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)[**Amazon**]
+* Joint Optimization of Tree-based Index and Deep Model for Recommender Systems [NeurIPS 2019][[__PDF__]] (https://arxiv.org/pdf/1902.07565.pdf)[**Tencent**][**Match**]
+Real-time Attention Based Look-alike Model for Recommender System [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1906.05022) [**Tencent**]
 
 ### Alibaba papers-continuous updating
 * [**Match**] TDM：Learning Tree-based Deep Model for Recommender Systems [KDD2018] [[__PDF__]](https://arxiv.org/pdf/1801.02294.pdf)
