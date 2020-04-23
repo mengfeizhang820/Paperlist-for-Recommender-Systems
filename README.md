@@ -136,23 +136,25 @@
 *  Interaction-aware Factorization Machines for Recommender Systems [AAAI2019] [[__PDF__]](https://arxiv.org/pdf/1902.09757.pdf)[[__code__]](https://github.com/cstur4/interaction-aware-factorization-machines)[**Tencent**]
 
 
-### Embedding
-* Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017][[__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
-* DeepWalk- Online Learning of Social Representations [KDD 2014][[__PDF__]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf)
-* LINE - Large-scale Information Network Embedding [Microsoft 2015][[__PDF__]](https://arxiv.org/pdf/1503.03578.pdf)
-* Node2vec - Scalable Feature Learning for Networks [Stanford 2016][[__PDF__]](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
+### Match
+* [**Embedding**] Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017][[__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
+* [**Embedding**] DeepWalk- Online Learning of Social Representations [KDD 2014][[__PDF__]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf)
+* [**Embedding**] LINE - Large-scale Information Network Embedding [Microsoft 2015][[__PDF__]](https://arxiv.org/pdf/1503.03578.pdf)
+*[**Embedding**]  Node2vec - Scalable Feature Learning for Networks [Stanford 2016][[__PDF__]](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
 * Structural Deep Network Embedding [KDD2016] [[__PDF__]](https://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)
 
-* Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017][[__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
+*[**Embedding**]  Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2017][[__PDF__]](https://arxiv.org/pdf/1603.04259.pdf)
 
-* Real-time Personalization using Embeddings for Search Ranking at Airbnb [KDD 2018] [[__PDF__]](https://astro.temple.edu/~tua95067/kdd2018.pdf)
+* [**Embedding**] Real-time Personalization using Embeddings for Search Ranking at Airbnb [KDD 2018] [[__PDF__]](https://astro.temple.edu/~tua95067/kdd2018.pdf)
 
-* Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1806.01973)[**Pinterest**]
+* [**Embedding**] Graph Convolutional Neural Networks for Web-Scale Recommender Systems [KDD 2018] [[__PDF__]](https://arxiv.org/pdf/1806.01973)[**Pinterest**]
 * Is a Single Embedding Enough ? Learning Node Representations that Capture Multiple Social Contexts [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1905.02138.pdf)
-* Representation Learning for Attributed Multiplex Heterogeneous Network [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1905.01669.pdf)
+*[**Embedding**]  Representation Learning for Attributed Multiplex Heterogeneous Network [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1905.01669.pdf)
+* [**DNN Match**] Deep Neural Networks for YouTube Recommendations  [RecSys 2016] [[__PDF__]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)[**Youtube**]
+* [**DNN Match**] Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations[RecSys 2019] [[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3298689.3346996)
 
 ### Others
-* Deep Neural Networks for YouTube Recommendations  [RecSys 2016] [[__PDF__]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)[**Youtube**]
+* 
 * Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018][[__PDF__]](http://delivery.acm.org/10.1145/3160000/3159727/p46-beutel.pdf?ip=159.226.43.46&id=3159727&acc=OA&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1568103183_98476c18cb349d52e835c76d85b83253)[**Youtube**]
 * Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
 
