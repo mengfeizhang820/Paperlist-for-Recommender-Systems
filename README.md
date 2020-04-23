@@ -152,14 +152,14 @@
 * [**Embedding**]  Representation Learning for Attributed Multiplex Heterogeneous Network [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1905.01669.pdf)
 * [**DNN Match**] Deep Neural Networks for YouTube Recommendations  [RecSys 2016] [[__PDF__]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)[**Youtube**]
 * [**DNN Match**] Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations[RecSys 2019] [[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3298689.3346996)
+* [**Semantic Matching**] Deep Semantic Matching for Amazon Product Search [WSDM 2019][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)[**Amazon**]
+* [**Tree Match**] Joint Optimization of Tree-based Index and Deep Model for Recommender Systems [NeurIPS 2019]
+[[__PDF__]](https://arxiv.org/pdf/1902.07565.pdf)[**Tencent**]
 
 ### Others
 * Latent Cross: Making Use of Context in Recurrent Recommender Systems [WSDM 2018][[__PDF__]](http://delivery.acm.org/10.1145/3160000/3159727/p46-beutel.pdf?ip=159.226.43.46&id=3159727&acc=OA&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1568103183_98476c18cb349d52e835c76d85b83253)[**Youtube**]
 * Learning from History and Present: Next-item Recommendation via Discriminatively Exploting Users Behaviors [KDD 2018][[__PDF__]](https://arxiv.org/pdf/1808.01075.pdf)
 
-* Deep Semantic Matching for Amazon Product Search [WSDM 2019][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)[**Amazon**]
-* Joint Optimization of Tree-based Index and Deep Model for Recommender Systems [NeurIPS 2019]
-[[__PDF__]](https://arxiv.org/pdf/1902.07565.pdf)[**Tencent**][**Match**]
 * Real-time Attention Based Look-alike Model for Recommender System [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1906.05022) [**Tencent**]
 
 ### Alibaba papers-continuous updating
