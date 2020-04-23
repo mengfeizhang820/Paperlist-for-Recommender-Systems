@@ -152,7 +152,7 @@
 * [**Embedding**]  Representation Learning for Attributed Multiplex Heterogeneous Network [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1905.01669.pdf)
 * [**DNN Match**] Deep Neural Networks for YouTube Recommendations  [RecSys 2016] [[__PDF__]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)[**Youtube**]
 * [**DNN Match**] Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations[RecSys 2019] [[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3298689.3346996)
-* [**Semantic Matching**] Deep Semantic Matching for Amazon Product Search [WSDM 2019][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)[**Amazon**]
+* [**Semantic Match**] Deep Semantic Matching for Amazon Product Search [WSDM 2019][[__PDF__]](https://wsdm2019-dapa.github.io/slides/05-YiweiSong.pdf)[**Amazon**]
 * [**Tree Match**] Joint Optimization of Tree-based Index and Deep Model for Recommender Systems [NeurIPS 2019]
 [[__PDF__]](https://arxiv.org/pdf/1902.07565.pdf)[**Tencent**]
 
