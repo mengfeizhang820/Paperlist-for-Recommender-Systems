@@ -109,7 +109,7 @@
 * Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning [SIGIR 2019][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331237&ftid=2073431&dwn=1&CFID=84209421&CFTOKEN=9a641ce449e844f4-AD0A0DFF-0D57-C718-7A3C3F3EA918C999)
 * Reinforcement Learning for User Intent Prediction in Customer Service Bots [SIGIR2019][[__PDF__]](https://dl.acm.org/ft_gateway.cfm?id=3331370&ftid=2073637&dwn=1&CFID=84209311&CFTOKEN=732e7121df9e7cb4-AD0489A6-BAFB-8E0B-14DD2161DC9EA0EB)
 * Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [KDD2019][[__PDF__]](https://arxiv.org/pdf/1902.05570.pdf)
-* Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology  [IJCAI 2019] [[__PDF__]](https://arxiv.org/pdf/1905.12767.pdf) [**Youtubee**]
+* Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology  [IJCAI 2019] [[__PDF__]](https://arxiv.org/pdf/1905.12767.pdf) [**Youtube**]
 * Top-K Off-Policy Correction for a REINFORCE Recommender System [WSDM 2019] [[__PDF__]](https://arxiv.org/pdf/1812.02353.pdf)[[**Youtube**]]
 
 ## Multi-behavior learning for Recommendation
