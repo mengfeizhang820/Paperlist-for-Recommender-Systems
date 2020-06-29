@@ -189,3 +189,6 @@
 * [**CTR**] Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction[KDD2019] [[__PDF__]](https://arxiv.org/pdf/1905.09248.pdf)[[__code__]](https://github.com/UIC-Paper/MIMN)
 * [**CTR**] Behavior Sequence Transformer for E-commerce Recommendation in Alibaba [[__PDF__]](https://arxiv.org/pdf/1905.06874.pdf)
 * [**CVR**] Entire Space Multi-Task Model: An E ective Approach for Estimating Post-Click Conversion Rate [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.07931.pdf)
+* [**CTR**] Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction [SIGIR2019] [[PDF]](https://arxiv.org/pdf/1905.00758.pdf) [[code]](https://github.com/alimamarankgroup/HPMN)
+* [** CTR**] Search-based User Interest Modeling with Lifelong Sequential Behavior Data for Click-Through Rate Prediction[[中文解读]]([https://mp.weixin.qq.com/s/iK32hIwjfQbaAwtb48bpyQ](https://mp.weixin.qq.com/s/iK32hIwjfQbaAwtb48bpyQ))
+
