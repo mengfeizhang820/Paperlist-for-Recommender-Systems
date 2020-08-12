@@ -32,6 +32,9 @@
   * STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems [[IJCAI2019]] [[__PDF__]](https://arxiv.org/pdf/1905.13129.pdf) [[__code__]](https://github.com/jennyzhang0215/STAR-GCN)
   * Unifying Explicit and Implicit Feedback for Rating Prediction and Ranking Recommendation Tasks [[ICTIR2019]] [[__PDF__]](http://delivery.acm.org/10.1145/3350000/3344225/p149-jadidinejad.pdf?ip=159.226.43.46&id=3344225&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1574690604_f26ab14b23dc0c85179633b7bd835f03) [[__code__]](https://github.com/amirj/unifying_explicit_implicit)
   * Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI2020] [[__PDF__]](http://yongfeng.me/attach/chen-aaai2020.pdf)[[__code__]](https://github.com/chenchongthu/EHCF)
+  * Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach [AAAI2020] [[__PDF__]](https://www.aaai.org/ojs/index.php/AAAI/article/download/5330/5186)[[__code__]](https://github.com/newlei/LR- GCCF)
+  * LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [SIGIR2020] [[__PDF__]](https://www.semanticscholar.org/paper/LightGCN%3A-Simplifying-and-Powering-Graph-Network-He-Deng/bb44eaa2b5b1ff8d626e42a24b9b76c4f07d8590)[[__code__]](https://github.com/kuandeng/LightGCN)
+  
      
 ## Explainable Recommender Systems
 * Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1806.03568.pdf)
