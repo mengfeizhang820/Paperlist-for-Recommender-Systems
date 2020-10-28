@@ -55,7 +55,6 @@
 * Streaming Session-based Recommendation [KDD 2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3292500.3330839)
 * Session-based Social Recommendation via Dynamic Graph Attention Networks [WSDM 2019][[__PDF__]](http://www.cs.toronto.edu/~lcharlin/papers/fp4571-songA.pdf)[[__code__]](https://github.com/DeepGraphLearning/RecommenderSystems/tree/master/socialRec  )
 * Sequence and Time Aware Neighborhood for Session-based Recommendations [SIGIR 2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3331322)
-
 * Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation [RecSys 2019][[__PDF__]](https://web-ainf.aau.at/pub/jannach/files/Conference_RecSys_2019_sessions.pdf)
 * Predictability Limits in Session-based Next Item Recommendation [RecSys 2019][[__PDF__]](https://dl.acm.org/citation.cfm?id=3346990)
 * Empirical Analysis of Session-Based Recommendation Algorithms [2019] [[__PDF__]](https://arxiv.org/pdf/1910.12781.pdf)[[__code__]](https://github.com/rn5l/session-rec)
@@ -63,8 +62,10 @@
 * Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks [CIKM2019][[__PDF__]](https://dl.acm.org/citation.cfm?id=3358010)
 * Session-based Recommendation with Hierarchical Memory Networks [CIKM2019] [[__PDF__]](https://dl.acm.org/citation.cfm?id=3358120)
 * ISLF: Interest Shift and Latent Factors Combination Model for Session-based Recommendation [IJCAI2019][[__PDF__]](https://www.ijcai.org/proceedings/2019/0799.pdf)
-* Variational Session-based Recommendation Using Normalizing Flows [WWW2019] [[__PDF__]](http://www.terpconnect.umd.edu/~kpzhang/paper/Variational_Session.pdf)
-
+* TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation [SIGIR2020][[__PDF__]](https://arxiv.org/abs/2005.02844)[[__code__]](https://github.com/CRIPAC-DIG/TAGNN)
+* Star Graph Neural Networks for Session-based Recommendation[CIKM2020][[__PDF__]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/pan-2020-star.pdf)
+* Session-based Recommendation with Hierarchical Leaping Networks[SIGIR2020]][[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3397271.3401217)
+* Handling Information Loss of Graph Neural Networks for Session-based Recommendation[KDD2020][[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403170)[[__code__]](https://github.com/twchen/lessr)
 
 
 ### Last-N based Approaches
