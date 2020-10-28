@@ -66,6 +66,7 @@
 * Star Graph Neural Networks for Session-based Recommendation[CIKM2020][[__PDF__]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/pan-2020-star.pdf)
 * Session-based Recommendation with Hierarchical Leaping Networks[SIGIR2020]][[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3397271.3401217)
 * Handling Information Loss of Graph Neural Networks for Session-based Recommendation[KDD2020][[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403170)[[__code__]](https://github.com/twchen/lessr)
+* Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation[SIGIR2020][[__PDF__]](https://arxiv.org/abs/2006.06922)[[__code__]](https://github.com/ciecus/MKM-SR)
 
 
 ### Last-N based Approaches
