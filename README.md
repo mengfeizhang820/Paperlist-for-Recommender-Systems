@@ -120,12 +120,18 @@
 ## Multi-behavior learning for Recommendation
 * Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI2020][[__PDF__]](http://www.thuir.cn/group/~mzhang/publications/AAAI2020-Chenchong.pdf)[[__code__]](https://github.com/chenchongthu/EHCF)
 
+## Multi-Interest learning for Recommendation
+* Deep Interest with Hierarchical A ention Network for Click-Through Rate Prediction [SIGIR2020][[__PDF__]](https://arxiv.org/abs/2005.12981)[[__code__]](https://github.com/stellaxu/DHAN)
+* Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [[__PDF__]](https://arxiv.org/abs/1904.08030)
+
+
 ## Multi-task learning for Recommendation
 * Entire Space Multi-Task Model: An E ective Approach for Estimating Post-Click Conversion Rate [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.07931.pdf)
 * Conversion Rate Prediction via Post-Click Behaviour Modeling
 * Rerceive Your Users in Depth: Learning Universal User Representations from Multiple E-commerce Tasks [KDD2018][[__PDF__]](https://arxiv.org/pdf/1805.10727.pdf)
 * Modeling task relationships in multi-task learning with multi-gate mixture-of-experts [KDD2018][[__PDF__]](https://dl.acm.org/doi/10.1145/3219819.3220007)
 * Recommending What Video to Watch Next: A Multitask Ranking System [RecSys2019][[__PDF__]](https://daiwk.github.io/assets/youtube-multitask.pdf)
+* Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations[Recsys2020][[__PDF__]](https://dl.acm.org/doi/10.1145/3383313.3412236)
 ## Re-ranking
 * Personalized Re-ranking for Recommendation [RecSys2019][[__PDF__]](https://arxiv.org/pdf/1904.06813.pdf)[[__code__]](https://github.com/rank2rec/rerank)[[__dataset__]](https://github.com/rank2rec/rerank)
 * Learning a Deep Listwise Context Model for Ranking Refinement [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.05936.pdf)[[__code__]](https://github.com/QingyaoAi/Deep-Listwise-Context-Model-for-Ranking-Refinement)
