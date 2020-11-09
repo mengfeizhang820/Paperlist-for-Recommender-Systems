@@ -111,6 +111,7 @@
 
 ## Multi-Interest and Diversity learning for Recommendation
 * Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction [SIGIR2020][[__PDF__]](https://arxiv.org/abs/2005.12981)[[__code__]](https://github.com/stellaxu/DHAN)
+* Controllable Multi-Interest Framework for Recommendation [KDD2020] [[__PDF__]](https://arxiv.org/abs/2005.09347)[[__code__]](https://github.com/THUDM/ComiRec)
 * Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [[__PDF__]](https://arxiv.org/abs/1904.08030)
 * Modeling Multi-Purpose Sessions for Next-Item Recommendations via Mixture-Channel Purpose Routing Networks (IJCAI2020)[[__PDF__]](https://www.ijcai.org/Proceedings/2019/0523.pdf)
 * Sequential and Diverse Recommendation with Long Tail [IJCAI2019][[__PDF__]](https://www.ijcai.org/Proceedings/2019/0380.pdf)
