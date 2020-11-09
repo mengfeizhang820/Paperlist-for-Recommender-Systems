@@ -119,7 +119,7 @@
 * A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks [KDD2020][[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254)
 *  M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems[KDD2020][[__PDF__]](https://arxiv.org/pdf/2005.10110.pdf)[**Alibaba Match**]
 * Deep Multi-Interest Network for Click-through Rate Prediction [CIKM2020][[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3340531.3412092)
-
+* Recent Advances in Diversified Recommendation
 ## Multi-task learning for Recommendation
 * [**ESMM**]Entire Space Multi-Task Model: An E ective Approach for Estimating Post-Click Conversion Rate [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.07931.pdf)
 * [**ESM2**]Conversion Rate Prediction via Post-Click Behaviour Modeling
