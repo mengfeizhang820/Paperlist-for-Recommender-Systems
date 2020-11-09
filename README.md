@@ -110,11 +110,12 @@
 * Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI2020][[__PDF__]](http://www.thuir.cn/group/~mzhang/publications/AAAI2020-Chenchong.pdf)[[__code__]](https://github.com/chenchongthu/EHCF)
 
 ## Multi-Interest and Diversity learning for Recommendation
-* Deep Interest with Hierarchical A ention Network for Click-Through Rate Prediction [SIGIR2020][[__PDF__]](https://arxiv.org/abs/2005.12981)[[__code__]](https://github.com/stellaxu/DHAN)
+* Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction [SIGIR2020][[__PDF__]](https://arxiv.org/abs/2005.12981)[[__code__]](https://github.com/stellaxu/DHAN)
 * Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [[__PDF__]](https://arxiv.org/abs/1904.08030)
 * Modeling Multi-Purpose Sessions for Next-Item Recommendations via Mixture-Channel Purpose Routing Networks (IJCAI2020)[[__PDF__]](https://www.ijcai.org/Proceedings/2019/0523.pdf)
 * Sequential and Diverse Recommendation with Long Tail [IJCAI2019][[__PDF__]](https://www.ijcai.org/Proceedings/2019/0380.pdf)
 * Improving End-to-End Sequential Recommendations with Intent-aware Diversification [CIKM2020) [[__PDF__]](https://arxiv.org/abs/1908.10171)[[__code__]](https://github.com/yejinjkim/seq-div-rec)
+* A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks[[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403254)
 
 ## Multi-task learning for Recommendation
 * Entire Space Multi-Task Model: An E ective Approach for Estimating Post-Click Conversion Rate [SIGIR2018][[__PDF__]](https://arxiv.org/pdf/1804.07931.pdf)
