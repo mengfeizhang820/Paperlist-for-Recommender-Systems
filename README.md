@@ -77,6 +77,8 @@
 * Time Interval Aware Self-Attention for Sequential Recommendation [WSDM2020][[__PDF__]](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf)
 * Time to Shop for Valentine’s Day: Shopping Occasions and Sequential Recommendation in E-commerce [WSDM2020][[__PDF__]](https://www.hongliangjie.com/publications/wsdm2020.pdf)
 * Disentangled Self-Supervision in Sequential Recommenders [KDD2020][[__PDF__]](http://pengcui.thumedialab.com/papers/DisentangledSequentialRecommendation.pdf)
+* DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation [CIKM2020][[__PDF__]](http://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf)[__code__]](https://github.com/Mehrab-Tanjim/DynamicRec)
+* S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [CIKM2020][[__PDF__]](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2008.07873)[[__code__]](https://link.zhihu.com/?target=https%3A//github.com/RUCAIBox/CIKM2020-S3Rec)
 ### Long and short-term Sequential Recommendations
 
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1804.10862)[[__code__]](https://github.com/tebesu/CollaborativeMemoryNetwork)
@@ -102,10 +104,6 @@
 * RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems [CIKM 2018] [[__PDF__]](https://arxiv.org/abs/1803.03467)[[__code__]](https://github.com/hwwang55/RippleNet)
 * Knowledge Graph Convolutional Networks for Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.12575.pdf)[[__code__]](https://github.com/hwwang55/KGCN)
 * KGAT: Knowledge Graph Attention Network for Recommendation [KDD2019][[__PDF__]](https://arxiv.org/pdf/1905.07854v2.pdf)[[__code__]](https://github.com/xiangwang1223/knowledge_graph_attention_network)
-
-## Reinforcement Learning Approaches
-* DRN: A Deep Reinforcement Learning Framework for News Recommendation [WWW 2018] [[__PDF__]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
-* Top-K Off-Policy Correction for a REINFORCE Recommender System [WSDM 2019] [[__PDF__]](https://arxiv.org/pdf/1812.02353.pdf)[[**Youtube**]]
 
 ## Multi-behavior learning for Recommendation
 * Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI2020][[__PDF__]](http://www.thuir.cn/group/~mzhang/publications/AAAI2020-Chenchong.pdf)[[__code__]](https://github.com/chenchongthu/EHCF)
