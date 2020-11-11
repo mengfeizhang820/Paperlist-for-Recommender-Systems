@@ -77,7 +77,7 @@
 * Time Interval Aware Self-Attention for Sequential Recommendation [WSDM2020][[__PDF__]](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf)
 * Time to Shop for Valentine’s Day: Shopping Occasions and Sequential Recommendation in E-commerce [WSDM2020][[__PDF__]](https://www.hongliangjie.com/publications/wsdm2020.pdf)
 * Disentangled Self-Supervision in Sequential Recommenders [KDD2020][[__PDF__]](http://pengcui.thumedialab.com/papers/DisentangledSequentialRecommendation.pdf)
-* DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation [CIKM2020][[__PDF__]](http://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf)[__code__]](https://github.com/Mehrab-Tanjim/DynamicRec)
+* DynamicRec: A Dynamic Convolutional Network for Next Item Recommendation [CIKM2020][[__PDF__]](http://cseweb.ucsd.edu/~gary/pubs/mehrab-cikm-2020.pdf)[[__code__]](https://github.com/Mehrab-Tanjim/DynamicRec)
 * S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [CIKM2020][[__PDF__]](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2008.07873)[[__code__]](https://link.zhihu.com/?target=https%3A//github.com/RUCAIBox/CIKM2020-S3Rec)
 ### Long and short-term Sequential Recommendations
 
