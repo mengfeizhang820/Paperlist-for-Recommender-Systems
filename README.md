@@ -69,12 +69,14 @@
 * Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation[SIGIR2020][[__PDF__]](https://arxiv.org/abs/2006.06922)[[__code__]](https://github.com/ciecus/MKM-SR)
 
 
-### Last-N based Approaches
+### sequential recommendations
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018][[__PDF__]](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)[[__code__]](https://github.com/graytowne/caser_pytorch)
 * Self-Attentive Sequential Recommendation [ICDM 2018] [[__PDF__]](https://arxiv.org/pdf/1808.09781)[[__code__]](https://github.com/kang205/SASRec)
 * Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF__]](https://arxiv.org/pdf/1906.09217.pdf)[[__code__]](https://github.com/graytowne/caser_pytorch)
 * Next Item Recommendation with Self-Attention [ACM 2018][[__PDF__]](https://arxiv.org/pdf/1808.06414)[[__code__]](https://github.com/cheungdaven/DeepRec/blob/master/models/seq_rec/AttRec.py)
-
+* Time Interval Aware Self-Attention for Sequential Recommendation [WSDM2020][[__PDF__]](https://cseweb.ucsd.edu/~jmcauley/pdfs/wsdm20b.pdf)
+* Time to Shop for Valentine’s Day: Shopping Occasions and Sequential Recommendation in E-commerce [WSDM2020][[__PDF__]](https://www.hongliangjie.com/publications/wsdm2020.pdf)
+* Disentangled Self-Supervision in Sequential Recommenders [KDD2020][[__PDF__]](http://pengcui.thumedialab.com/papers/DisentangledSequentialRecommendation.pdf)
 ### Long and short-term Sequential Recommendations
 
 * Collaborative Memory Network for Recommendation Systems [SIGIR 2018][[__PDF__]](https://arxiv.org/pdf/1804.10862)[[__code__]](https://github.com/tebesu/CollaborativeMemoryNetwork)
