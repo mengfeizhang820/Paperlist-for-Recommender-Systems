@@ -69,7 +69,7 @@
 * Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation[SIGIR2020][[__PDF__]](https://arxiv.org/abs/2006.06922)[[__code__]](https://github.com/ciecus/MKM-SR)
 
 
-### equential recommendations
+### Sequential recommendations
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [WSDM 2018][[__PDF__]](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)[[__code__]](https://github.com/graytowne/caser_pytorch)
 * Self-Attentive Sequential Recommendation [ICDM 2018] [[__PDF__]](https://arxiv.org/pdf/1808.09781)[[__code__]](https://github.com/kang205/SASRec)
 * Hierarchical Gating Networks for Sequential Recommendation [KDD 2019][[__PDF__]](https://arxiv.org/pdf/1906.09217.pdf)[[__code__]](https://github.com/graytowne/caser_pytorch)
