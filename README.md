@@ -107,6 +107,10 @@
 * Knowledge Graph Convolutional Networks for Recommender Systems [WWW 2019] [[__PDF__]](https://arxiv.org/pdf/1904.12575.pdf)[[__code__]](https://github.com/hwwang55/KGCN)
 * KGAT: Knowledge Graph Attention Network for Recommendation [KDD2019][[__PDF__]](https://arxiv.org/pdf/1905.07854v2.pdf)[[__code__]](https://github.com/xiangwang1223/knowledge_graph_attention_network)
 
+## Reinforcement Learning Approaches
+ * DRN: A Deep Reinforcement Learning Framework for News Recommendation [WWW 2018] [[__PDF__]](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
+ * Top-K Off-Policy Correction for a REINFORCE Recommender System [WSDM 2019] [[__PDF__]](https://arxiv.org/pdf/1812.02353.pdf)[[**Youtube**]]
+
 ## Multi-behavior learning for Recommendation
 * Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI2020][[__PDF__]](http://www.thuir.cn/group/~mzhang/publications/AAAI2020-Chenchong.pdf)[[__code__]](https://github.com/chenchongthu/EHCF)
 
