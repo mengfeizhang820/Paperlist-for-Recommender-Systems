@@ -34,6 +34,7 @@
   * Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation [AAAI2020] [[__PDF__]](http://yongfeng.me/attach/chen-aaai2020.pdf)[[__code__]](https://github.com/chenchongthu/EHCF)
   * Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach [AAAI2020] [[__PDF__]](https://www.aaai.org/ojs/index.php/AAAI/article/download/5330/5186)[[__code__]](https://github.com/newlei/LR-GCCF)
   * LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [SIGIR2020] [[__PDF__]](https://www.semanticscholar.org/paper/LightGCN%3A-Simplifying-and-Powering-Graph-Network-He-Deng/bb44eaa2b5b1ff8d626e42a24b9b76c4f07d8590)[[__code__]](https://github.com/kuandeng/LightGCN)
+  * Disentangled Graph Collaborative Filtering [SIGIR2020][[__PDF__]](https://arxiv.org/pdf/2007.01764.pdf) [[__code__]](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)
   
      
 ## Explainable Recommender Systems
