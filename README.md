@@ -94,6 +94,7 @@
 * Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation [IJCAI 2019] [[__PDF__]](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/IJCAI19-ready_v1.pdf)[[__code__]](https://github.com/zepingyu0512/sli_rec)[**Microsoft**]
 * Long- and Short-term Preference Learning for Next POI Recommendation [CIKM 2019] [[__PDF__]](http://delivery.acm.org/10.1145/3360000/3358171/p2301-wu.pdf?ip=159.226.43.46&id=3358171&acc=OPEN&key=33E289E220520BFB%2ED25FD1BB8C28ADF7%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1574662810_7d7654698714493518013d4fde64f9c2)
 * Neural News Recommendation with Long- and Short-term User Representations [ACL 2019][**Microsoft**][[__PDF__]](https://nvagus.github.io/paper/ACL19NewsRec.pdf)
+* CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation [[__PDF__]](https://www.researchgate.net/publication/334579722_CTRec_A_Long-Short_Demands_Evolution_Model_for_Continuous-Time_Recommendation)
 * Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation [SIGIR2020][[__PDF__]](https://dl.acm.org/doi/10.1145/3397271.3401136)
 * MRIF: Multi-resolution Interest Fusion for Recommendation [SIGIR2020] [[__PDF__]](https://arxiv.org/abs/2007.07084)
 ### Context-Aware Sequential Recommendations
