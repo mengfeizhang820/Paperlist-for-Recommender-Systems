@@ -176,6 +176,8 @@
 * Real-time Attention Based Look-alike Model for Recommender System [KDD 2019] [[__PDF__]](https://arxiv.org/pdf/1906.05022) [**Tencent**]
 
 ### Alibaba papers-continuous updating
+* [**CTR**] Deep Interest Network for Click-Through Rate Prediction [KDD2018][[__PDF__]](https://arxiv.org/pdf/1706.06978.pdf)
+
 * [**Match**] TDM：Learning Tree-based Deep Model for Recommender Systems [KDD2018] [[__PDF__]](https://arxiv.org/pdf/1801.02294.pdf)
 * [**Match**] Multi-Interest Network with Dynamic Routing for Recommendation at Tmall [2019][[__PDF__]](https://arxiv.org/pdf/1904.08030)
 * [**Long and short-term**] SDM: Sequential Deep Matching Model for Online Large-scale Recommender System [CIKM 2019][[__PDF__]](https://arxiv.org/pdf/1909.00385v1.pdf)
