@@ -38,6 +38,7 @@
   * LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [SIGIR2020] [[__PDF__]](https://www.semanticscholar.org/paper/LightGCN%3A-Simplifying-and-Powering-Graph-Network-He-Deng/bb44eaa2b5b1ff8d626e42a24b9b76c4f07d8590)[[__code__]](https://github.com/kuandeng/LightGCN)
   * Disentangled Graph Collaborative Filtering [SIGIR2020][[__PDF__]](https://arxiv.org/pdf/2007.01764.pdf) [[__code__]](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)
   * HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering [WWW2021] [[__PDF__]](https://www.cs.toronto.edu/~mvolkovs/www2021_hgcf.pdf)[[__code__]](https://github.com/layer6ai-labs/HGCF)
+  * Contrastive Learning for Recommender System [2021] [[__PDF__]](https://arxiv.org/pdf/2101.01317.pdf)
   
      
 ## Explainable Recommender Systems
