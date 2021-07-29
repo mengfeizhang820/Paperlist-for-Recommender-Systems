@@ -7,6 +7,8 @@
 * Sequence-Aware Recommender Systems [2018] [[__PDF__]](https://arxiv.org/pdf/1802.08452.pdf)
 * DeepRec: An Open-source Toolkit for Deep Learning based Recommendation [IJCAI 2019] [[__PDF__]](https://arxiv.org/pdf/1905.10536.pdf)
 * Graph Embedding Techniques, Applications, and Performance: A Survey [2018] [[__PDF__]](https://arxiv.org/pdf/1705.02801)
+* A survey on session-based recommender systems [2021] [[__PDF__]](https://arxiv.org/pdf/1902.04864.pdf)
+* Graph Learning based Recommender Systems: A Review [IJCAI 2021] [[PDF]](https://arxiv.org/pdf/2105.06339.pdf)
 
 ## Recommender Systems with Content Information
   ### Review-based Approaches
@@ -35,6 +37,7 @@
   * Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach [AAAI2020] [[__PDF__]](https://www.aaai.org/ojs/index.php/AAAI/article/download/5330/5186)[[__code__]](https://github.com/newlei/LR-GCCF)
   * LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [SIGIR2020] [[__PDF__]](https://www.semanticscholar.org/paper/LightGCN%3A-Simplifying-and-Powering-Graph-Network-He-Deng/bb44eaa2b5b1ff8d626e42a24b9b76c4f07d8590)[[__code__]](https://github.com/kuandeng/LightGCN)
   * Disentangled Graph Collaborative Filtering [SIGIR2020][[__PDF__]](https://arxiv.org/pdf/2007.01764.pdf) [[__code__]](https://github.com/xiangwang1223/disentangled_graph_collaborative_filtering)
+  * HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering [WWW2021] [[__PDF__]](https://www.cs.toronto.edu/~mvolkovs/www2021_hgcf.pdf)[[__code__]](https://github.com/layer6ai-labs/HGCF)
   
      
 ## Explainable Recommender Systems
@@ -68,6 +71,7 @@
 * Session-based Recommendation with Hierarchical Leaping Networks[SIGIR2020]][[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3397271.3401217)
 * Handling Information Loss of Graph Neural Networks for Session-based Recommendation[KDD2020][[__PDF__]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403170)[[__code__]](https://github.com/twchen/lessr)
 * Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation[SIGIR2020][[__PDF__]](https://arxiv.org/abs/2006.06922)[[__code__]](https://github.com/ciecus/MKM-SR)
+* Session-aware Linear Item-Item Models for Session-based Recommendation [WWW2021] [[PDF]](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3450005)[[__code__]](https://github.com/jin530/SLIST)
 
 
 ### Sequential recommendations
